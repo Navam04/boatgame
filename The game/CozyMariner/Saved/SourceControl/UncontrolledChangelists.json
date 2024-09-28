@@ -6,6 +6,26 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0U/HTBZZHT1S7P96PNRIMJCLJ.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/Materials/MM_Water.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/Materials/Instances/MI_Water.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/ThirdPerson/Maps/worldTest.umap",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/Textures/caustic_00.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/Textures/starGlitter.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/StarterContent/Materials/M_Water_Lake.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/StarterContent/Materials/M_Water_Ocean.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/RVT/Colour_Runtime.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/RVT/Height_Runtime.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/RVT/MM_Landscape_RVT.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/RVT/MI_Landscape_RVT.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/RVT/MM_Grass.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/Materials/MM_Grass.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/Materials/Instances/MI_Grass.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/Geometry/Meshes/Foliage/StylizedGrass.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/LayerInfo/Grass_LayerInfo.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/LayerInfo/GrassDark_LayerInfo.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/LayerInfo/GrassDarkest_LayerInfo.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/LayerInfo/Sand_LayerInfo.uasset",
+				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/Textures/WindNoise.uasset",
 				"C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Content/StarterContent/Materials/M_AssetPlatform.uasset"
 			]
 		}
