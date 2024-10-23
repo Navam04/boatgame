@@ -7,6 +7,9 @@
 			"files": [
 				"/Users/ashmitmittal/Documents/MZNX/CozyMarinerLocal/boatgame/The game/CozyMariner/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"/Users/ashmitmittal/Documents/MZNX/CozyMarinerLocal/boatgame/The game/CozyMariner/Content/ThirdPerson/Maps/BoatTest.umap",
+				"/Users/ashmitmittal/Documents/MZNX/CozyMarinerLocal/boatgame/The game/CozyMariner/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"/Users/ashmitmittal/Documents/MZNX/CozyMarinerLocal/boatgame/The game/CozyMariner/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/ashmitmittal/Documents/MZNX/CozyMarinerLocal/boatgame/The game/CozyMariner/Content/ThirdPerson/Blueprints/BP_Boat.uasset",
 				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0U/HTBZZHT1S7P96PNRIMJCLJ.uasset",
 				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/Materials/MM_Water.uasset",
 				"C:/Users/Zain/OneDrive/Documents/boatgame/The game/CozyMariner/Content/Materials/Instances/MI_Water.uasset",
