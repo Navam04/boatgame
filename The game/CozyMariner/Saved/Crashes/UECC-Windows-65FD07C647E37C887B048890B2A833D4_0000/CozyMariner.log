@@ -1201,22 +1201,3 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.23-23.18.18:476][317]LogBlueprintEditor: Perf: 0.3 total seconds to load all 6 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
 [2024.11.23-23.18.18:476][317]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
 [2024.11.23-23.18.20:065][317]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
-[2024.11.23-23.18.20:217][317]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.152672s
-[2024.11.23-23.18.20:294][317]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.245031s (0.245031s overbudget)
-[2024.11.23-23.18.20:294][317]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Inventory/BP_Inventory.BP_Inventory
-[2024.11.23-23.18.20:294][317]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.23-23.18.20:294][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2024.11.23-23.18.20:333][317]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/Inventory/WB_Inventory.WB_Inventory
-[2024.11.23-23.18.20:333][317]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.23-23.18.20:333][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2024.11.23-23.18.20:338][317]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.23-23.18.20:338][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2024.11.23-23.18.20:344][317]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
-[2024.11.23-23.18.20:444][317]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat
-[2024.11.23-23.18.20:445][317]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.23-23.18.20:445][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2024.11.23-23.18.20:494][317]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Fishing/BP_FishPawn.BP_FishPawn
-[2024.11.23-23.18.20:494][317]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.23-23.18.20:494][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2024.11.23-23.18.20:876][317]LogBlueprintUserMessages: Warning: Failed to find console variable ''.
-[2024.11.23-23.18.20:923][317]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
