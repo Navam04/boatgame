@@ -1143,3 +1143,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.23-23.13.43:945][  1]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2024.11.23-23.13.45:405][  6]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.11.23-23.13.45:795][  8]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.23-23.15.19:648][290]LogDerivedDataCache: C:/Users/navam_909oqfp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1687 files in 2688 folders with total size 208 MiB.
