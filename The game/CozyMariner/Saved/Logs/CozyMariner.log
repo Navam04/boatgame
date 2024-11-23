@@ -1220,3 +1220,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.23-23.18.20:494][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.11.23-23.18.20:876][317]LogBlueprintUserMessages: Warning: Failed to find console variable ''.
 [2024.11.23-23.18.20:923][317]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.23-23.19.51:985][ 39]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
