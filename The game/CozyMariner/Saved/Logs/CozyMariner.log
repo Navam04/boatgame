@@ -3163,6 +3163,7 @@ Script Stack (0 frames) :
 [2024.12.29-03.36.07:374][323]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.12.29-03.57.39:332][197]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.12.29-03.58.02:949][268]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=17
+<<<<<<< Updated upstream
 [2024.12.29-03.58.47:775][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.12.29-03.58.47:775][402]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_BoatTest1withFish
 [2024.12.29-03.58.47:775][402]LogSlate: Window 'CozyMariner Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
@@ -3814,3 +3815,5 @@ Script Stack (0 frames) :
 [2024.12.29-03.58.53:741][406]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.12.29-03.58.53:770][406]LogExit: Exiting.
 [2024.12.29-03.58.53:823][406]Log file closed, 12/28/24 22:58:53
+=======
+>>>>>>> Stashed changes
