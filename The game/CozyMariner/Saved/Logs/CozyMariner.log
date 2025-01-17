@@ -5112,3 +5112,22 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.01.17-04.21.08:094][994]LogDerivedDataCache: C:/Users/navam_909oqfp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.101 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2120 files in 3252 folders with total size 148 MiB.
 [2025.01.17-04.23.11:853][113]BlueprintLog: New page: Compile WB_ITEMSLOT
 [2025.01.17-04.23.11:868][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.17-04.25.54:052][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.01.17-04.25.54:970][503]LogSlate: Window 'Save Content' being destroyed
+[2025.01.17-04.25.54:975][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.17-04.25.55:221][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.17-04.25.55:961][503]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/BoatTest1withFish
+[2025.01.17-04.25.55:962][503]LogSavePackage: Moving 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Saved/BoatTest1withFish19F5FD3A4D368EB2B315D5A4C7A45B75.tmp' to 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Content/ThirdPerson/Maps/BoatTest1withFish.umap'
+[2025.01.17-04.25.55:974][503]LogFileHelpers: Saving map 'BoatTest1withFish' took 0.782
+[2025.01.17-04.25.55:987][503]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Inventory/BP_Inventory
+[2025.01.17-04.25.55:988][503]LogSavePackage: Moving 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Saved/BP_Inventory0A8DF52A4C35DB51C52F5DA945544B09.tmp' to 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Content/ThirdPerson/Blueprints/BP_Inventory/BP_Inventory.uasset'
+[2025.01.17-04.25.55:998][503]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Inventory/WB_Inventory
+[2025.01.17-04.25.55:999][503]LogSavePackage: Moving 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Saved/WB_InventoryDB44F3254339E5963EB00C8BD1020EB9.tmp' to 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Content/ThirdPerson/Blueprints/BP_Inventory/WB_Inventory.uasset'
+[2025.01.17-04.25.56:007][503]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Inventory/WB_ITEMSLOT
+[2025.01.17-04.25.56:008][503]LogSavePackage: Moving 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Saved/WB_ITEMSLOT45C1C6814DC51FA26D9163AF76F58DB1.tmp' to 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Content/ThirdPerson/Blueprints/BP_Inventory/WB_ITEMSLOT.uasset'
+[2025.01.17-04.25.56:013][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.03 sec (total: 2.37 sec)
+[2025.01.17-04.25.56:018][503]AssetCheck: New page: Asset Save: multiple assets
+[2025.01.17-04.25.56:018][503]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/BoatTest1withFish.BoatTest1withFish
+[2025.01.17-04.25.56:018][503]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Inventory/BP_Inventory.BP_Inventory
+[2025.01.17-04.25.56:018][503]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_Inventory/WB_Inventory.WB_Inventory
+[2025.01.17-04.25.56:019][503]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_Inventory/WB_ITEMSLOT.WB_ITEMSLOT
