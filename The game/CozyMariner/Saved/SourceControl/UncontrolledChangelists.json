@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/ashmitmittal/Documents/MZNX/CozyMarinerLocal/boatgame/The game/CozyMariner/Content/ThirdPerson/Blueprints/BP_Boat.uasset",
+				"/Users/ashmitmittal/Documents/MZNX/CozyMarinerLocal/boatgame/The game/CozyMariner/Content/ThirdPerson/Blueprints/BP_BoatDupe.uasset",
+				"/Users/ashmitmittal/Documents/MZNX/CozyMarinerLocal/boatgame/The game/CozyMariner/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"/Users/ashmitmittal/Documents/MZNX/CozyMarinerLocal/boatgame/The game/CozyMariner/Content/ThirdPerson/Maps/BoatTest.umap",
 				"C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Content/StarterContent/Materials/M_AssetPlatform.uasset",
 				"C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Content/ThirdPerson/Maps/FishingTest.umap",
