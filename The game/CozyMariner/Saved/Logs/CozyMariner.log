@@ -1412,3 +1412,1628 @@ Make sure 'BP_Boat_C' has been compiled for  Set isJournalActive
 [2025.05.01-18.24.53:254][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms
 [2025.05.01-18.24.53:256][ 66]AssetCheck: New page: Asset Save: BP_Boat
 [2025.05.01-18.24.53:256][ 66]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat
+[2025.05.01-18.26.53:420][ 30]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 327.922394
+[2025.05.01-18.26.54:422][ 33]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-18.26.54:422][ 33]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 328.589539, Update Interval: 334.618988
+[2025.05.01-18.32.32:081][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 666.582886
+[2025.05.01-18.32.33:081][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-18.32.33:081][585]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 667.249451, Update Interval: 345.700867
+[2025.05.01-18.38.22:465][637]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1018.312317
+[2025.05.01-18.38.23:465][640]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-18.38.23:465][640]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1018.978821, Update Interval: 351.225311
+[2025.05.01-18.44.24:188][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1380.035645
+[2025.05.01-18.44.25:189][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-18.44.25:189][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1380.702393, Update Interval: 310.818207
+[2025.05.01-18.50.07:241][751]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1723.088501
+[2025.05.01-18.50.08:240][754]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-18.50.08:240][754]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1723.755249, Update Interval: 315.599243
+[2025.05.01-18.56.01:384][926]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2077.230957
+[2025.05.01-18.56.02:383][929]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-18.56.02:383][929]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2077.897705, Update Interval: 311.047089
+[2025.05.01-19.01.48:773][968]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2424.617676
+[2025.05.01-19.01.49:774][971]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-19.01.49:774][971]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2425.283936, Update Interval: 350.117493
+[2025.05.01-19.08.26:503][161]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2822.354736
+[2025.05.01-19.08.27:504][164]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-19.08.27:504][164]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2823.020996, Update Interval: 357.476746
+[2025.05.01-19.14.56:902][332]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3212.750732
+[2025.05.01-19.14.57:901][335]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-19.14.57:901][335]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3213.417236, Update Interval: 342.322449
+[2025.05.01-19.21.25:633][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3601.480469
+[2025.05.01-19.21.26:634][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-19.21.26:634][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3602.148193, Update Interval: 347.462402
+[2025.05.01-19.23.27:935][864]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.060 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.01-19.27.51:365][655]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3987.215576
+[2025.05.01-19.27.52:365][658]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-19.27.52:365][658]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3987.882812, Update Interval: 353.314606
+[2025.05.01-19.34.39:757][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4395.606934
+[2025.05.01-19.34.40:756][883]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-19.34.40:756][883]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4396.273438, Update Interval: 335.012665
+[2025.05.01-19.40.54:149][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4770.000488
+[2025.05.01-19.40.55:150][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-19.40.55:150][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4770.666992, Update Interval: 306.234924
+[2025.05.01-19.46.42:212][ 47]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5118.065430
+[2025.05.01-19.46.43:213][ 50]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-19.46.43:213][ 50]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5118.732422, Update Interval: 322.222351
+[2025.05.01-19.53.01:598][185]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5497.448242
+[2025.05.01-19.53.02:598][188]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-19.53.02:598][188]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5498.115234, Update Interval: 344.261597
+[2025.05.01-19.59.31:321][354]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5887.174316
+[2025.05.01-19.59.32:322][357]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-19.59.32:322][357]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5887.840332, Update Interval: 316.161377
+[2025.05.01-20.05.33:386][440]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6249.240723
+[2025.05.01-20.05.34:386][443]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-20.05.34:386][443]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6249.908691, Update Interval: 337.449890
+[2025.05.01-20.12.00:242][991]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6636.091309
+[2025.05.01-20.12.01:244][994]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-20.12.01:244][994]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6636.759277, Update Interval: 345.539734
+[2025.05.01-20.18.38:705][448]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7034.561523
+[2025.05.01-20.18.39:707][451]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-20.18.39:707][451]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7035.228516, Update Interval: 347.837769
+[2025.05.01-20.19.47:379][654]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.01-20.19.47:380][654]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.9 RefreshExpires: 1.554e+07
+[2025.05.01-20.19.48:382][657]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.01-22.19.47 Remaining: 7200.56] Refresh[Expires: 2025-10-28T18:01:15.867Z Remaining: 15543688.87] State: Valid
+[2025.05.01-20.23.27:930][315]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.01-20.25.01:112][595]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7416.968262
+[2025.05.01-20.25.02:112][598]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-20.25.02:112][598]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7417.634277, Update Interval: 341.564392
+[2025.05.01-20.25.35:784][699]LogHttp: Warning: 000008D8A0471400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.01-20.25.35:784][699]LogHttp: Warning: 000008D8A0471400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.05.01-20.25.35:784][699]LogHttp: Warning: 000008D8A0471400: libcurl info message cache 1 (Closing connection)
+[2025.05.01-20.25.35:784][699]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7E129AF6-4286-D423-ADAF-C9A6B01A8952%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=708be6a64147d3f6f113b0a7cb95fd64%7Cbb0cae002e0548758a884871138bd055%7Cda8b30ac-43c8-4120-bbff-225b388d334c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.05.01-20.31.32:179][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7808.025879
+[2025.05.01-20.31.33:180][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-20.31.33:180][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7808.692871, Update Interval: 352.155518
+[2025.05.01-20.38.20:568][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8216.413086
+[2025.05.01-20.38.21:568][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-20.38.21:569][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8217.080078, Update Interval: 357.359528
+[2025.05.01-20.44.54:961][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8610.786133
+[2025.05.01-20.44.55:962][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-20.44.55:962][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8611.453125, Update Interval: 311.528687
+[2025.05.01-20.51.02:023][277]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8977.829102
+[2025.05.01-20.51.03:024][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-20.51.03:024][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8978.495117, Update Interval: 310.298157
+[2025.05.01-20.57.00:754][353]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9336.533203
+[2025.05.01-20.57.01:755][356]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-20.57.01:755][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9337.200195, Update Interval: 327.550903
+[2025.05.01-21.03.22:480][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9718.243164
+[2025.05.01-21.03.23:480][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-21.03.23:480][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9718.911133, Update Interval: 321.658386
+[2025.05.01-21.09.39:536][629]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10095.318359
+[2025.05.01-21.09.40:538][632]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-21.09.40:538][632]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10095.984375, Update Interval: 354.098328
+[2025.05.01-21.16.25:272][846]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10501.028320
+[2025.05.01-21.16.26:272][849]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-21.16.26:272][849]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10501.694336, Update Interval: 357.940002
+[2025.05.01-21.23.20:486][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10916.214844
+[2025.05.01-21.23.21:487][182]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-21.23.21:487][182]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10916.881836, Update Interval: 344.256104
+[2025.05.01-21.23.27:934][201]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.01-21.29.49:546][346]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11305.254883
+[2025.05.01-21.29.50:546][349]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-21.29.50:546][349]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11305.920898, Update Interval: 308.241821
+[2025.05.01-21.35.29:376][488]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11645.081055
+[2025.05.01-21.35.30:377][491]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-21.35.30:377][491]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11645.748047, Update Interval: 301.750549
+[2025.05.01-21.41.20:760][542]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11996.460938
+[2025.05.01-21.41.21:760][545]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-21.41.21:760][545]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11997.127930, Update Interval: 342.093567
+[2025.05.01-21.47.56:291][889]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12391.975586
+[2025.05.01-21.47.57:293][892]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-21.47.57:293][892]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12392.643555, Update Interval: 336.235840
+[2025.05.01-21.54.03:686][991]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12759.358398
+[2025.05.01-21.54.04:684][994]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-21.54.04:684][994]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12760.023438, Update Interval: 342.040466
+[2025.05.01-22.00.38:745][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13154.408203
+[2025.05.01-22.00.39:744][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-22.00.39:744][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13155.074219, Update Interval: 311.821655
+[2025.05.01-22.06.47:809][283]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13523.453125
+[2025.05.01-22.06.48:807][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-22.06.48:807][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13524.118164, Update Interval: 355.460693
+[2025.05.01-22.13.44:201][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13939.830078
+[2025.05.01-22.13.45:201][535]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-22.13.45:201][535]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13940.496094, Update Interval: 328.232056
+[2025.05.01-22.18.09:239][327]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.01-22.18.09:240][327]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.89 RefreshExpires: 1.554e+07
+[2025.05.01-22.18.10:240][330]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.02-00.18.09 Remaining: 7200.22] Refresh[Expires: 2025-10-28T18:01:15.867Z Remaining: 15536586.87] State: Valid
+[2025.05.01-22.20.08:595][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14324.199219
+[2025.05.01-22.20.09:595][688]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-22.20.09:595][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14324.867188, Update Interval: 319.902344
+[2025.05.01-22.23.26:966][279]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.089 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.01-22.26.13:330][779]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14688.910156
+[2025.05.01-22.26.14:332][782]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-22.26.14:332][782]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14689.576172, Update Interval: 303.933228
+[2025.05.01-22.31.56:386][808]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15031.955078
+[2025.05.01-22.31.57:386][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-22.31.57:386][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15032.622070, Update Interval: 346.369202
+[2025.05.01-22.38.26:774][979]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15422.320312
+[2025.05.01-22.38.27:774][982]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-22.38.27:774][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15422.986328, Update Interval: 320.667755
+[2025.05.01-22.44.40:845][101]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15796.361328
+[2025.05.01-22.44.41:845][104]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-22.44.41:845][104]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15797.028320, Update Interval: 354.898529
+[2025.05.01-22.51.07:578][261]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16183.071289
+[2025.05.01-22.51.08:579][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-22.51.08:579][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16183.738281, Update Interval: 358.676117
+[2025.05.01-22.58.04:641][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16600.275391
+[2025.05.01-22.58.05:641][515]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-22.58.05:641][515]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16600.943359, Update Interval: 346.826996
+[2025.05.01-23.04.51:704][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17007.505859
+[2025.05.01-23.04.52:703][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-23.04.52:703][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17008.171875, Update Interval: 302.085632
+[2025.05.01-23.10.38:810][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17354.787109
+[2025.05.01-23.10.39:810][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-23.10.39:810][819]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17355.455078, Update Interval: 348.108765
+[2025.05.01-23.16.58:535][955]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17734.736328
+[2025.05.01-23.16.59:536][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-23.16.59:536][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17735.404297, Update Interval: 343.769043
+[2025.05.01-23.23.27:941][123]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.064 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.01-23.23.33:254][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18129.675781
+[2025.05.01-23.23.34:254][142]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-23.23.34:254][142]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18130.343750, Update Interval: 348.066650
+[2025.05.01-23.30.00:642][301]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18517.300781
+[2025.05.01-23.30.01:644][304]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-23.30.01:644][304]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18517.966797, Update Interval: 329.061554
+[2025.05.01-23.36.28:372][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18905.195312
+[2025.05.01-23.36.29:372][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-23.36.29:372][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18905.863281, Update Interval: 347.932983
+[2025.05.01-23.43.08:429][664]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19305.503906
+[2025.05.01-23.43.09:429][667]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-23.43.09:429][667]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19306.169922, Update Interval: 327.744995
+[2025.05.01-23.49.10:158][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19667.488281
+[2025.05.01-23.49.11:157][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-23.49.11:157][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19668.154297, Update Interval: 303.594482
+[2025.05.01-23.54.47:209][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20004.744141
+[2025.05.01-23.54.48:211][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-23.54.48:211][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20005.412109, Update Interval: 313.627136
+[2025.05.02-00.01.00:590][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20378.351562
+[2025.05.02-00.01.01:590][883]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-00.01.01:590][883]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20379.019531, Update Interval: 316.873688
+[2025.05.02-00.07.09:985][988]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20747.992188
+[2025.05.02-00.07.10:986][991]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-00.07.10:986][991]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20748.660156, Update Interval: 341.119415
+[2025.05.02-00.13.29:374][126]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21127.607422
+[2025.05.02-00.13.30:375][129]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-00.13.30:375][129]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21128.275391, Update Interval: 319.741211
+[2025.05.02-00.16.30:401][669]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.02-00.16.30:401][669]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.88 RefreshExpires: 1.553e+07
+[2025.05.02-00.16.31:400][672]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.02-02.16.30 Remaining: 7200.15] Refresh[Expires: 2025-10-28T18:01:15.867Z Remaining: 15529485.87] State: Valid
+[2025.05.02-00.19.25:761][195]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21484.171875
+[2025.05.02-00.19.26:758][198]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-00.19.26:758][198]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21484.835938, Update Interval: 358.192688
+[2025.05.02-00.23.27:939][921]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.062 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.02-00.25.55:484][364]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21874.150391
+[2025.05.02-00.25.56:483][367]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-00.25.56:483][367]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21874.816406, Update Interval: 325.844299
+[2025.05.02-00.32.01:866][463]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22240.787109
+[2025.05.02-00.32.02:865][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-00.32.02:865][466]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22241.453125, Update Interval: 325.053253
+[2025.05.02-00.38.22:264][604]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22621.419922
+[2025.05.02-00.38.23:265][607]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-00.38.23:265][607]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22622.085938, Update Interval: 313.698547
+[2025.05.02-00.44.34:655][721]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22994.072266
+[2025.05.02-00.44.35:660][724]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-00.44.35:660][724]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22994.738281, Update Interval: 317.965027
+[2025.05.02-00.50.25:044][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23344.662109
+[2025.05.02-00.50.26:046][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-00.50.26:046][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23345.328125, Update Interval: 335.955688
+[2025.05.02-00.56.38:098][891]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23717.933594
+[2025.05.02-00.56.39:099][894]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-00.56.39:099][894]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23718.599609, Update Interval: 327.534424
+[2025.05.02-01.02.41:819][982]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24081.882812
+[2025.05.02-01.02.42:817][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-01.02.42:817][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24082.548828, Update Interval: 339.074066
+[2025.05.02-01.09.06:212][135]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24466.548828
+[2025.05.02-01.09.07:212][138]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-01.09.07:212][138]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24467.216797, Update Interval: 330.881683
+[2025.05.02-01.15.17:930][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24838.515625
+[2025.05.02-01.15.18:929][253]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-01.15.18:930][253]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24839.183594, Update Interval: 347.819458
+[2025.05.02-01.21.40:647][398]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25221.443359
+[2025.05.02-01.21.41:647][401]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-01.21.41:647][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25222.109375, Update Interval: 347.048553
+[2025.05.02-01.23.27:926][719]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.048 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.02-01.28.22:367][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25623.408203
+[2025.05.02-01.28.23:367][606]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-01.28.23:367][606]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25624.076172, Update Interval: 318.931854
+[2025.05.02-01.34.29:439][704]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25990.699219
+[2025.05.02-01.34.30:439][707]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-01.34.30:439][707]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25991.365234, Update Interval: 335.018158
+[2025.05.02-01.40.59:761][873]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26381.259766
+[2025.05.02-01.41.00:761][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-01.41.00:761][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26381.927734, Update Interval: 318.347717
+[2025.05.02-01.47.16:151][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26757.835938
+[2025.05.02-01.47.17:150][  5]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-01.47.17:150][  5]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26758.503906, Update Interval: 303.740967
+[2025.05.02-01.53.04:860][ 48]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27106.742188
+[2025.05.02-01.53.05:860][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-01.53.05:860][ 51]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27107.410156, Update Interval: 326.351501
+[2025.05.02-01.59.02:904][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27464.964844
+[2025.05.02-01.59.03:904][125]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-01.59.03:904][125]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27465.630859, Update Interval: 313.515442
+[2025.05.02-02.04.47:625][156]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27809.824219
+[2025.05.02-02.04.48:624][159]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-02.04.48:624][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27810.492188, Update Interval: 325.040436
+[2025.05.02-02.10.50:677][245]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28172.974609
+[2025.05.02-02.10.51:677][248]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-02.10.51:677][248]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28173.640625, Update Interval: 318.107849
+[2025.05.02-02.14.51:709][968]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.02-02.14.51:709][968]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.81 RefreshExpires: 1.552e+07
+[2025.05.02-02.14.52:708][971]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.02-04.14.51 Remaining: 7200.25] Refresh[Expires: 2025-10-28T18:01:15.867Z Remaining: 15522384.87] State: Valid
+[2025.05.02-02.16.42:729][301]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28525.212891
+[2025.05.02-02.16.43:727][304]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-02.16.43:727][304]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28525.876953, Update Interval: 332.460083
+[2025.05.02-02.23.08:111][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28910.761719
+[2025.05.02-02.23.09:111][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-02.23.09:111][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28911.427734, Update Interval: 307.003998
+[2025.05.02-02.23.26:969][513]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.02-02.29.07:828][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29270.630859
+[2025.05.02-02.29.08:828][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-02.29.08:829][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29271.298828, Update Interval: 317.791077
+[2025.05.02-02.34.59:215][590]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29622.195312
+[2025.05.02-02.35.00:215][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-02.35.00:215][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29622.861328, Update Interval: 337.145905
+[2025.05.02-02.41.09:930][702]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29993.128906
+[2025.05.02-02.41.10:930][705]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-02.41.10:930][705]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29993.796875, Update Interval: 321.986145
+[2025.05.02-02.47.13:984][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30357.355469
+[2025.05.02-02.47.14:984][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-02.47.14:985][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30358.023438, Update Interval: 313.526428
+[2025.05.02-02.53.03:696][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30707.189453
+[2025.05.02-02.53.04:695][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-02.53.04:696][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30707.857422, Update Interval: 358.181702
+[2025.05.02-02.59.53:088][ 71]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31116.751953
+[2025.05.02-02.59.54:087][ 74]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-02.59.54:087][ 74]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31117.417969, Update Interval: 308.042236
+[2025.05.02-03.05.43:150][121]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31466.945312
+[2025.05.02-03.05.44:150][124]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-03.05.44:150][124]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31467.613281, Update Interval: 356.312134
+[2025.05.02-03.12.34:193][354]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31878.175781
+[2025.05.02-03.12.35:193][357]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-03.12.35:193][357]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31878.843750, Update Interval: 315.952637
+[2025.05.02-03.18.47:237][473]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32251.431641
+[2025.05.02-03.18.48:237][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-03.18.48:237][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32252.097656, Update Interval: 326.270935
+[2025.05.02-03.23.27:948][315]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.070 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.02-03.24.46:609][551]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32610.992188
+[2025.05.02-03.24.47:610][554]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-03.24.47:610][554]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32611.656250, Update Interval: 359.337128
+[2025.05.02-03.31.19:988][731]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33003.781250
+[2025.05.02-03.31.20:990][734]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-03.31.20:990][734]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33004.445312, Update Interval: 344.005249
+[2025.05.02-03.38.00:374][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33403.335938
+[2025.05.02-03.38.01:374][935]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-03.38.01:374][935]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33404.007812, Update Interval: 316.908478
+[2025.05.02-03.43.51:091][984]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33753.347656
+[2025.05.02-03.43.52:091][987]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-03.43.52:091][987]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33754.011719, Update Interval: 354.905853
+[2025.05.02-03.50.33:260][202]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34154.671875
+[2025.05.02-03.50.34:262][205]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-03.50.34:262][205]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34155.335938, Update Interval: 329.590759
+[2025.05.02-03.57.00:635][364]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34541.332031
+[2025.05.02-03.57.01:636][367]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-03.57.01:636][367]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34541.996094, Update Interval: 358.884857
+[2025.05.02-04.03.31:689][537]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34931.519531
+[2025.05.02-04.03.32:688][540]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-04.03.32:688][540]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34932.183594, Update Interval: 321.191437
+[2025.05.02-04.09.53:063][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35312.199219
+[2025.05.02-04.09.54:064][684]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-04.09.54:064][684]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35312.867188, Update Interval: 311.506714
+[2025.05.02-04.13.12:760][280]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.02-04.13.12:760][280]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.91 RefreshExpires: 1.552e+07
+[2025.05.02-04.13.13:760][283]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.02-06.13.12 Remaining: 7200.08] Refresh[Expires: 2025-10-28T18:01:15.867Z Remaining: 15515283.87] State: Valid
+[2025.05.02-04.15.44:776][736]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35663.179688
+[2025.05.02-04.15.45:775][739]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-04.15.45:775][739]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35663.847656, Update Interval: 323.575562
+[2025.05.02-04.22.02:486][869]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36039.941406
+[2025.05.02-04.22.03:487][872]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-04.22.03:487][872]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36040.605469, Update Interval: 305.550110
+[2025.05.02-04.23.27:941][125]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.02-04.27.59:867][941]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36396.460938
+[2025.05.02-04.28.00:866][944]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-04.28.00:866][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36397.125000, Update Interval: 325.703308
+[2025.05.02-04.34.03:921][ 33]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36759.652344
+[2025.05.02-04.34.04:920][ 36]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-04.34.04:920][ 36]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36760.316406, Update Interval: 307.372040
+[2025.05.02-04.39.46:965][ 62]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37101.757812
+[2025.05.02-04.39.47:965][ 65]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-04.39.47:965][ 65]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37102.421875, Update Interval: 315.921509
+[2025.05.02-04.45.54:681][165]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37468.609375
+[2025.05.02-04.45.55:682][168]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-04.45.55:682][168]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37469.273438, Update Interval: 312.444214
+[2025.05.02-04.52.00:072][261]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37833.351562
+[2025.05.02-04.52.01:072][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-04.52.01:072][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37834.015625, Update Interval: 316.857208
+[2025.05.02-04.58.05:453][357]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38197.890625
+[2025.05.02-04.58.06:454][360]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-04.58.06:454][360]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38198.558594, Update Interval: 314.467590
+[2025.05.02-05.04.05:169][436]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38556.851562
+[2025.05.02-05.04.06:169][439]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-05.04.06:169][439]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38557.515625, Update Interval: 302.310852
+[2025.05.02-05.09.59:884][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38910.929688
+[2025.05.02-05.10.00:873][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-05.10.00:873][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38911.585938, Update Interval: 352.386230
+[2025.05.02-05.16.28:606][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39298.757812
+[2025.05.02-05.16.29:606][669]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-05.16.29:606][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39299.421875, Update Interval: 335.514404
+[2025.05.02-05.22.50:986][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39680.242188
+[2025.05.02-05.22.51:987][816]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-05.22.51:987][816]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39680.906250, Update Interval: 329.729919
+[2025.05.02-05.23.27:931][923]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.02-05.28.55:366][906]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40043.933594
+[2025.05.02-05.28.56:367][909]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-05.28.56:367][909]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40044.601562, Update Interval: 338.132874
+[2025.05.02-05.35.26:748][ 80]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40434.449219
+[2025.05.02-05.35.27:748][ 83]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-05.35.27:748][ 83]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40435.113281, Update Interval: 350.624725
+[2025.05.02-05.41.54:146][242]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40820.863281
+[2025.05.02-05.41.55:147][245]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-05.41.55:147][245]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40821.527344, Update Interval: 309.389923
+[2025.05.02-05.47.39:519][278]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41165.468750
+[2025.05.02-05.47.40:520][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-05.47.40:520][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41166.132812, Update Interval: 306.859344
+[2025.05.02-05.53.37:573][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41522.820312
+[2025.05.02-05.53.38:574][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-05.53.38:574][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41523.488281, Update Interval: 344.668121
+[2025.05.02-06.00.22:967][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41927.355469
+[2025.05.02-06.00.23:967][571]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-06.00.23:967][571]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41928.019531, Update Interval: 300.386353
+[2025.05.02-06.06.17:679][632]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42281.386719
+[2025.05.02-06.06.18:680][635]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-06.06.18:680][635]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42282.050781, Update Interval: 312.991730
+[2025.05.02-06.10.00:907][295]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.02-14.36.05:822][295]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [30365 Seconds] waiting for h/w. InstanceID=1
+[2025.05.02-14.36.10:147][295]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: bb0...055
+[2025.05.02-14.36.10:147][295]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -3.018e+04 RefreshExpires: 1.548e+07
+[2025.05.02-14.36.10:680][295]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23220
+[2025.05.02-14.36.10:825][296]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{88692883-1f8e-4c2f-b6ab-4ab1472a6853}, Name=PULSE 3D (Wireless Stereo Headset)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=109.04
+[2025.05.02-14.36.10:826][296]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.02-14.36.10:840][296]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.02-14.36.11:700][299]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.02-16.36.09 Remaining: 7200.90] Refresh[Expires: 2025-10-28T18:01:15.867Z Remaining: 15477906.87] State: Valid
+[2025.05.02-14.36.48:829][411]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 72912.460938
+[2025.05.02-14.36.49:830][414]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-14.36.49:830][414]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 72913.132812, Update Interval: 335.620605
+[2025.05.02-14.43.11:222][558]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 73297.578125
+[2025.05.02-14.43.12:222][561]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-14.43.12:222][561]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 73298.250000, Update Interval: 342.752777
+[2025.05.02-14.49.25:928][681]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.181 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.02-14.49.54:944][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 73704.242188
+[2025.05.02-14.49.55:944][772]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-14.49.55:944][772]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 73704.914062, Update Interval: 325.923035
+[2025.05.02-14.55.52:995][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 74064.640625
+[2025.05.02-14.55.53:995][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-14.55.53:995][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 74065.312500, Update Interval: 355.034027
+[2025.05.02-15.02.26:379][ 23]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 74460.640625
+[2025.05.02-15.02.27:380][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-15.02.27:380][ 26]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 74461.312500, Update Interval: 348.636139
+[2025.05.02-15.09.00:447][205]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 74857.343750
+[2025.05.02-15.09.01:447][208]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-15.09.01:447][208]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 74858.007812, Update Interval: 333.952454
+[2025.05.02-15.15.13:180][323]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 75232.562500
+[2025.05.02-15.15.14:182][326]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-15.15.14:182][326]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 75233.234375, Update Interval: 333.051544
+[2025.05.02-15.21.23:241][433]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 75605.156250
+[2025.05.02-15.21.24:244][436]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-15.21.24:244][436]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 75605.828125, Update Interval: 353.351227
+[2025.05.02-15.28.02:310][630]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 76006.968750
+[2025.05.02-15.28.03:309][633]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-15.28.03:309][633]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 76007.632812, Update Interval: 315.679810
+[2025.05.02-15.33.49:364][671]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 76356.500000
+[2025.05.02-15.33.50:365][674]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-15.33.50:365][674]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 76357.171875, Update Interval: 309.234283
+[2025.05.02-15.39.47:084][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 76716.843750
+[2025.05.02-15.39.48:085][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-15.39.48:086][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 76717.515625, Update Interval: 327.206635
+[2025.05.02-15.45.50:139][833]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 77082.617188
+[2025.05.02-15.45.51:141][836]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-15.45.51:141][836]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 77083.289062, Update Interval: 357.335724
+[2025.05.02-15.49.26:806][482]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.058 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.02-15.52.35:535][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 77491.046875
+[2025.05.02-15.52.36:535][ 52]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-15.52.36:535][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 77491.718750, Update Interval: 325.487244
+[2025.05.02-15.58.36:244][131]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 77854.351562
+[2025.05.02-15.58.37:243][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-15.58.37:243][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 77855.023438, Update Interval: 325.146637
+[2025.05.02-16.04.59:632][281]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 78240.640625
+[2025.05.02-16.05.00:632][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-16.05.00:632][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 78241.312500, Update Interval: 318.988617
+[2025.05.02-16.11.08:683][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 78612.500000
+[2025.05.02-16.11.09:683][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-16.11.09:683][391]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 78613.171875, Update Interval: 357.850281
+[2025.05.02-16.18.04:423][635]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 79031.375000
+[2025.05.02-16.18.05:422][638]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-16.18.05:423][638]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 79032.046875, Update Interval: 315.033417
+[2025.05.02-16.24.18:142][756]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 79407.960938
+[2025.05.02-16.24.19:139][759]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-16.24.19:139][759]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 79408.625000, Update Interval: 347.471558
+[2025.05.02-16.31.03:877][973]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 79816.757812
+[2025.05.02-16.31.04:877][976]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-16.31.04:877][976]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 79817.429688, Update Interval: 357.209381
+[2025.05.02-16.34.32:239][598]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.02-16.34.32:239][598]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.9 RefreshExpires: 1.547e+07
+[2025.05.02-16.34.33:240][601]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.02-18.34.31 Remaining: 7200.44] Refresh[Expires: 2025-10-28T18:01:15.867Z Remaining: 15470804.87] State: Valid
+[2025.05.02-16.37.32:262][138]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 80208.070312
+[2025.05.02-16.37.33:264][141]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-16.37.33:264][141]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 80208.742188, Update Interval: 344.651642
+[2025.05.02-16.43.51:323][275]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 80589.984375
+[2025.05.02-16.43.52:325][278]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-16.43.52:325][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 80590.656250, Update Interval: 346.349060
+[2025.05.02-16.49.26:799][281]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.051 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.02-16.50.27:720][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 80989.312500
+[2025.05.02-16.50.28:721][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-16.50.28:721][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 80989.984375, Update Interval: 342.417664
+[2025.05.02-16.56.45:102][596]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 81369.468750
+[2025.05.02-16.56.46:103][599]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-16.56.46:103][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 81370.140625, Update Interval: 329.433258
+[2025.05.02-17.03.08:835][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 81756.070312
+[2025.05.02-17.03.09:835][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-17.03.09:835][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 81756.742188, Update Interval: 311.310760
+[2025.05.02-17.08.53:222][780]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 82103.062500
+[2025.05.02-17.08.54:221][783]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-17.08.54:221][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 82103.734375, Update Interval: 350.800507
+[2025.05.02-17.15.28:283][965]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 82501.125000
+[2025.05.02-17.15.29:283][968]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-17.15.29:283][968]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 82501.796875, Update Interval: 315.275116
+[2025.05.02-17.21.37:337][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 82872.976562
+[2025.05.02-17.21.38:337][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-17.21.38:337][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 82873.648438, Update Interval: 310.030823
+[2025.05.02-17.27.35:387][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 83233.734375
+[2025.05.02-17.27.36:387][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-17.27.36:388][149]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 83234.406250, Update Interval: 327.640625
+[2025.05.02-17.33.44:776][254]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 83605.914062
+[2025.05.02-17.33.45:776][257]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-17.33.45:776][257]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 83606.585938, Update Interval: 300.897247
+[2025.05.02-17.39.41:831][325]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 83965.640625
+[2025.05.02-17.39.42:831][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-17.39.42:831][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 83966.312500, Update Interval: 356.606964
+[2025.05.02-17.46.12:220][496]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 84358.976562
+[2025.05.02-17.46.13:220][499]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-17.46.13:220][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 84359.648438, Update Interval: 315.727417
+[2025.05.02-17.49.26:811][ 79]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.02-17.52.27:939][623]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 84737.507812
+[2025.05.02-17.52.28:939][626]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-17.52.28:939][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 84738.179688, Update Interval: 319.607544
+[2025.05.02-17.58.36:993][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 85109.351562
+[2025.05.02-17.58.37:993][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-17.58.37:993][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 85110.023438, Update Interval: 329.588928
+[2025.05.02-18.04.57:047][870]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 85492.289062
+[2025.05.02-18.04.58:047][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-18.04.58:047][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 85492.960938, Update Interval: 335.897095
+[2025.05.02-18.11.18:339][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 85876.398438
+[2025.05.02-18.11.19:338][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-18.11.19:338][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 85877.070312, Update Interval: 308.641022
+[2025.05.02-18.17.16:390][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86237.046875
+[2025.05.02-18.17.17:390][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-18.17.17:390][ 89]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86237.718750, Update Interval: 336.765045
+[2025.05.02-18.23.33:434][217]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86616.914062
+[2025.05.02-18.23.34:434][220]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-18.23.34:434][220]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86617.585938, Update Interval: 317.053131
+[2025.05.02-18.29.40:818][539]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86987.085938
+[2025.05.02-18.29.41:818][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-18.29.41:818][542]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86987.757812, Update Interval: 322.740570
+[2025.05.02-18.32.53:850][118]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.02-18.32.53:850][118]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.76 RefreshExpires: 1.546e+07
+[2025.05.02-18.32.54:850][121]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.02-20.32.52 Remaining: 7200.84] Refresh[Expires: 2025-10-29T18:32:52.837Z Remaining: 15552000.84] State: Valid
+[2025.05.02-18.35.36:878][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87345.835938
+[2025.05.02-18.35.37:878][610]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-18.35.37:878][610]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87346.507812, Update Interval: 326.838593
+[2025.05.02-18.41.45:602][713]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87717.382812
+[2025.05.02-18.41.46:602][716]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-18.41.46:602][716]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87718.054688, Update Interval: 347.165741
+[2025.05.02-18.48.10:995][869]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88105.703125
+[2025.05.02-18.48.11:995][872]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-18.48.11:995][872]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88106.375000, Update Interval: 325.003815
+[2025.05.02-18.49.26:815][ 96]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.02-18.54.29:387][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88486.968750
+[2025.05.02-18.54.30:387][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-18.54.30:388][  7]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88487.640625, Update Interval: 355.508301
+[2025.05.02-19.00.57:115][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88877.656250
+[2025.05.02-19.00.58:114][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-19.00.58:114][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88878.328125, Update Interval: 322.376160
+[2025.05.02-19.07.11:848][291]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89255.250000
+[2025.05.02-19.07.12:848][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-19.07.12:848][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89255.921875, Update Interval: 339.791870
+[2025.05.02-19.13.41:911][461]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89648.250000
+[2025.05.02-19.13.42:911][464]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-19.13.42:911][464]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89648.921875, Update Interval: 318.479553
+[2025.05.02-19.19.32:644][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 90001.609375
+[2025.05.02-19.19.33:644][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-19.19.33:645][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 90002.281250, Update Interval: 337.521301
+[2025.05.02-19.25.57:041][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 90388.867188
+[2025.05.02-19.25.58:041][669]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-19.25.58:042][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 90389.539062, Update Interval: 306.846527
+[2025.05.02-19.31.36:425][684]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 90730.835938
+[2025.05.02-19.31.37:425][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-19.31.37:425][687]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 90731.507812, Update Interval: 314.469421
+[2025.05.02-19.37.48:480][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 91105.726562
+[2025.05.02-19.37.49:480][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-19.37.49:480][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 91106.398438, Update Interval: 315.141449
+[2025.05.02-19.39.09:408][ 36]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.03-04.14.53:161][ 36]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: bb0...055
+[2025.05.03-04.14.53:161][ 36]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -2.772e+04 RefreshExpires: 1.552e+07
+[2025.05.03-04.14.53:176][ 36]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23220
+[2025.05.03-04.14.53:500][ 37]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{88692883-1f8e-4c2f-b6ab-4ab1472a6853}, Name=PULSE 3D (Wireless Stereo Headset)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=143.18
+[2025.05.03-04.14.53:500][ 37]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.03-04.14.53:532][ 37]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.03-04.14.53:830][ 39]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.03-06.14.52 Remaining: 7200.79] Refresh[Expires: 2025-10-29T18:32:52.837Z Remaining: 15517080.84] State: Valid
+[2025.05.03-04.15.27:167][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 122165.453125
+[2025.05.03-04.15.28:169][142]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-04.15.28:169][142]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 122166.125000, Update Interval: 300.715973
+[2025.05.03-04.21.04:542][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 122505.390625
+[2025.05.03-04.21.05:542][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-04.21.05:543][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 122506.062500, Update Interval: 324.436157
+[2025.05.03-04.25.04:263][870]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.123 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.03-04.27.13:924][259]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 122877.554688
+[2025.05.03-04.27.14:923][262]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-04.27.14:923][262]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 122878.226562, Update Interval: 339.295624
+[2025.05.03-04.28.47:226][538]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.05.03-04.33.49:646][446]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 123276.312500
+[2025.05.03-04.33.50:647][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-04.33.50:647][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 123276.984375, Update Interval: 302.074646
+[2025.05.03-04.39.33:027][476]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 123622.320312
+[2025.05.03-04.39.34:026][479]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-04.39.34:028][479]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 123622.992188, Update Interval: 316.831573
+[2025.05.03-04.45.29:412][545]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 123981.429688
+[2025.05.03-04.45.30:413][548]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-04.45.30:413][548]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 123982.101562, Update Interval: 312.451538
+[2025.05.03-04.51.17:459][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 124332.109375
+[2025.05.03-04.51.18:458][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-04.51.18:458][592]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 124332.781250, Update Interval: 315.557129
+[2025.05.03-04.57.30:502][708]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 124707.937500
+[2025.05.03-04.57.31:502][711]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-04.57.31:503][711]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 124708.609375, Update Interval: 340.086670
+[2025.05.03-05.03.55:897][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 125096.265625
+[2025.05.03-05.03.56:896][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-05.03.56:896][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 125096.937500, Update Interval: 356.061279
+[2025.05.03-05.10.40:289][ 77]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 125503.750000
+[2025.05.03-05.10.41:289][ 80]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-05.10.41:289][ 80]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 125504.421875, Update Interval: 329.391144
+[2025.05.03-05.16.56:683][206]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 125882.984375
+[2025.05.03-05.16.57:683][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-05.16.57:683][209]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 125883.656250, Update Interval: 350.154114
+[2025.05.03-05.23.29:409][384]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 126278.718750
+[2025.05.03-05.23.30:408][387]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-05.23.30:409][387]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 126279.390625, Update Interval: 315.491211
+[2025.05.03-05.25.05:195][671]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.055 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.03-05.29.21:128][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 126633.125000
+[2025.05.03-05.29.22:128][442]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-05.29.22:128][442]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 126633.796875, Update Interval: 333.234650
+[2025.05.03-05.35.43:512][586]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 127018.437500
+[2025.05.03-05.35.44:512][589]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-05.35.44:512][589]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 127019.109375, Update Interval: 310.468445
+[2025.05.03-05.41.52:560][693]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 127390.320312
+[2025.05.03-05.41.53:560][696]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-05.41.53:560][696]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 127390.992188, Update Interval: 355.519287
+[2025.05.03-05.48.20:605][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 127781.335938
+[2025.05.03-05.48.21:606][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-05.48.21:606][860]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 127782.007812, Update Interval: 359.421356
+[2025.05.03-05.55.19:666][114]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 128203.609375
+[2025.05.03-05.55.20:665][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-05.55.20:665][117]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 128204.281250, Update Interval: 341.500305
+[2025.05.03-06.01.58:376][310]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 128605.375000
+[2025.05.03-06.01.59:377][313]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-06.01.59:377][313]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 128606.046875, Update Interval: 310.679047
+[2025.05.03-06.08.04:759][409]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 128974.562500
+[2025.05.03-06.08.05:759][412]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-06.08.05:759][412]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 128975.234375, Update Interval: 317.045807
+[2025.05.03-06.13.14:811][339]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.03-06.13.14:811][339]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.78 RefreshExpires: 1.551e+07
+[2025.05.03-06.13.15:811][342]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.03-08.13.14 Remaining: 7200.37] Refresh[Expires: 2025-10-29T18:32:52.837Z Remaining: 15509978.84] State: Valid
+[2025.05.03-06.14.13:819][516]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 129346.445312
+[2025.05.03-06.14.14:819][519]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-06.14.14:819][519]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 129347.117188, Update Interval: 314.612274
+[2025.05.03-06.20.21:533][619]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 129716.968750
+[2025.05.03-06.20.22:534][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-06.20.22:534][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 129717.640625, Update Interval: 353.475769
+[2025.05.03-06.25.05:196][469]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.055 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.03-06.26.56:926][805]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 130115.390625
+[2025.05.03-06.26.57:927][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-06.26.57:928][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 130116.062500, Update Interval: 335.331268
+[2025.05.03-06.33.30:985][987]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 130512.468750
+[2025.05.03-06.33.31:985][990]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-06.33.31:985][990]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 130513.140625, Update Interval: 328.003174
+[2025.05.03-06.39.54:378][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 130898.789062
+[2025.05.03-06.39.55:377][140]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-06.39.55:377][140]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 130899.460938, Update Interval: 349.714661
+[2025.05.03-06.46.23:428][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 131285.718750
+[2025.05.03-06.46.24:428][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-06.46.24:428][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 131286.375000, Update Interval: 349.934387
+[2025.05.03-06.53.11:815][529]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 131687.687500
+[2025.05.03-06.53.12:815][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-06.53.12:815][532]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 131688.343750, Update Interval: 358.104797
+[2025.05.03-06.59.59:541][752]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 132088.984375
+[2025.05.03-07.00.00:542][755]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-07.00.00:542][755]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 132089.640625, Update Interval: 331.960205
+[2025.05.03-07.06.17:598][886]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 132461.109375
+[2025.05.03-07.06.18:598][889]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-07.06.18:599][889]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 132461.765625, Update Interval: 321.070587
+[2025.05.03-07.12.34:977][ 18]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 132832.562500
+[2025.05.03-07.12.35:977][ 21]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-07.12.35:977][ 21]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 132833.218750, Update Interval: 335.972168
+[2025.05.03-07.18.45:365][129]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 133197.171875
+[2025.05.03-07.18.46:363][132]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-07.18.46:363][132]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 133197.828125, Update Interval: 346.588959
+[2025.05.03-07.25.05:211][268]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.070 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.03-07.25.08:079][277]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 133573.859375
+[2025.05.03-07.25.09:080][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-07.25.09:080][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 133574.515625, Update Interval: 352.712189
+[2025.05.03-07.31.42:132][459]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 133961.703125
+[2025.05.03-07.31.43:132][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-07.31.43:134][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 133962.359375, Update Interval: 342.031311
+[2025.05.03-07.38.21:190][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 134354.468750
+[2025.05.03-07.38.22:190][659]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-07.38.22:190][659]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 134355.125000, Update Interval: 304.683990
+[2025.05.03-07.44.21:243][736]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 134708.843750
+[2025.05.03-07.44.22:243][739]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-07.44.22:243][739]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 134709.500000, Update Interval: 355.336151
+[2025.05.03-07.51.06:623][952]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 135107.843750
+[2025.05.03-07.51.07:623][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-07.51.07:623][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 135108.500000, Update Interval: 311.689819
+[2025.05.03-07.57.11:152][ 53]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 135466.734375
+[2025.05.03-07.57.12:153][ 56]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-07.57.12:153][ 56]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 135467.390625, Update Interval: 339.736938
+[2025.05.03-08.03.22:870][168]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 135832.812500
+[2025.05.03-08.03.23:871][171]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-08.03.23:871][171]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 135833.468750, Update Interval: 328.329102
+[2025.05.03-08.03.56:059][261]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.03-17.54.41:130][261]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: bb0...055
+[2025.05.03-17.54.41:131][261]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -3.489e+04 RefreshExpires: 1.547e+07
+[2025.05.03-17.54.41:145][261]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23220
+[2025.05.03-17.54.41:803][263]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{88692883-1f8e-4c2f-b6ab-4ab1472a6853}, Name=PULSE 3D (Wireless Stereo Headset)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=392.31
+[2025.05.03-17.54.41:803][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.03-17.54.41:806][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.03-17.54.41:823][264]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.03-19.54.39 Remaining: 7200.94] Refresh[Expires: 2025-10-29T18:32:52.837Z Remaining: 15467893.84] State: Valid
+[2025.05.03-17.55.17:230][369]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23220
+[2025.05.03-17.55.17:566][370]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{88692883-1f8e-4c2f-b6ab-4ab1472a6853}, Name=PULSE 3D (Wireless Stereo Headset)), Reason=FMixerPlatformXAudio2::OnSessionDisconnect() - Other, InstanceID=1, DurationMS=11.53
+[2025.05.03-17.55.17:566][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.03-17.55.17:570][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.03-17.55.20:240][379]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 171349.359375
+[2025.05.03-17.55.21:231][381]LogAudioMixer: Warning: FMixerPlatformXAudio2: Audio device removed [PULSE 3D (Wireless Stereo Headset)], falling back to other windows default device. bIsRenderDevice=1, InstanceID=1
+[2025.05.03-17.55.21:244][381]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23220
+[2025.05.03-17.55.21:259][382]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-17.55.21:259][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 171350.078125, Update Interval: 326.406433
+[2025.05.03-17.55.21:406][382]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PULSE 3D (Wireless Stereo Headset), InstanceID=1
+[2025.05.03-17.55.22:569][384]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{88692883-1f8e-4c2f-b6ab-4ab1472a6853}, Name=PULSE 3D (Wireless Stereo Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=14.41
+[2025.05.03-17.55.22:569][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.03-17.55.22:572][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.03-18.01.23:291][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 171707.265625
+[2025.05.03-18.01.24:291][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-18.01.24:291][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 171707.921875, Update Interval: 332.897736
+[2025.05.03-18.07.48:686][623]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 172086.859375
+[2025.05.03-18.07.49:688][626]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-18.07.49:688][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 172087.515625, Update Interval: 339.427460
+[2025.05.03-18.14.28:745][823]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 172480.765625
+[2025.05.03-18.14.29:745][826]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-18.14.29:745][826]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 172481.421875, Update Interval: 357.007965
+[2025.05.03-18.15.44:602][ 50]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.094 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.03-18.20.58:461][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 172868.484375
+[2025.05.03-18.20.59:462][606]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-18.20.59:462][606]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 172869.140625, Update Interval: 317.413849
+[2025.05.03-18.26.53:849][669]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 173218.437500
+[2025.05.03-18.26.54:849][672]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-18.26.54:849][672]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 173219.093750, Update Interval: 335.327606
+[2025.05.03-18.28.06:359][804]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2025.05.03-18.28.06:359][804]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2025.05.03-18.28.43:653][870]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2025.05.03-18.33.24:067][ 58]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 173798.312500
+[2025.05.03-18.33.25:063][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-18.33.25:064][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 173798.968750, Update Interval: 336.226685
+[2025.05.03-18.39.54:178][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 174187.296875
+[2025.05.03-18.39.55:180][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-18.39.55:180][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 174187.953125, Update Interval: 324.828033
+[2025.05.03-18.45.57:882][ 55]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 174550.453125
+[2025.05.03-18.45.58:881][ 58]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-18.45.58:881][ 58]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 174551.109375, Update Interval: 317.073273
+[2025.05.03-18.51.50:272][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 174897.375000
+[2025.05.03-18.51.51:273][115]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-18.51.51:273][115]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 174898.031250, Update Interval: 352.876984
+[2025.05.03-18.58.43:003][350]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 175303.765625
+[2025.05.03-18.58.44:002][353]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-18.58.44:002][353]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 175304.421875, Update Interval: 354.451721
+[2025.05.03-19.05.32:735][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 175707.187500
+[2025.05.03-19.05.33:736][582]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-19.05.33:736][582]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 175707.843750, Update Interval: 323.586548
+[2025.05.03-19.11.47:871][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 176161.578125
+[2025.05.03-19.11.47:955][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-19.11.47:956][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 176161.687500, Update Interval: 308.245483
+[2025.05.03-19.15.45:583][825]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.075 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.03-19.17.40:545][170]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 176521.890625
+[2025.05.03-19.17.41:544][173]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-19.17.41:544][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 176522.546875, Update Interval: 321.775574
+[2025.05.03-19.23.53:185][ 14]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 176892.296875
+[2025.05.03-19.23.54:184][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-19.23.54:184][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 176892.953125, Update Interval: 334.397400
+[2025.05.03-19.30.14:248][157]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 177267.359375
+[2025.05.03-19.30.15:247][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-19.30.15:247][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 177268.015625, Update Interval: 303.929565
+[2025.05.03-19.36.03:975][206]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 177611.828125
+[2025.05.03-19.36.04:975][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-19.36.04:976][209]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 177612.484375, Update Interval: 338.488098
+[2025.05.03-19.42.14:034][316]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 177976.265625
+[2025.05.03-19.42.15:036][319]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-19.42.15:036][319]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 177976.921875, Update Interval: 355.511963
+[2025.05.03-19.48.47:428][496]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 178363.625000
+[2025.05.03-19.48.48:431][499]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-19.48.48:431][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 178364.281250, Update Interval: 326.642670
+[2025.05.03-19.53.02:800][262]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.03-19.53.02:800][262]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.94 RefreshExpires: 1.546e+07
+[2025.05.03-19.53.03:801][265]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.03-21.53.01 Remaining: 7200.58] Refresh[Expires: 2025-10-30T19:53:01.580Z Remaining: 15552000.58] State: Valid
+[2025.05.03-19.55.02:820][622]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 178733.218750
+[2025.05.03-19.55.03:821][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-19.55.03:821][625]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 178733.875000, Update Interval: 324.033325
+[2025.05.03-20.01.09:209][721]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 179094.156250
+[2025.05.03-20.01.10:208][724]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-20.01.10:208][724]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 179094.812500, Update Interval: 358.101135
+[2025.05.03-20.07.46:940][914]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 179486.000000
+[2025.05.03-20.07.47:939][917]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-20.07.47:940][917]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 179486.656250, Update Interval: 307.240204
+[2025.05.03-20.13.54:325][ 16]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 179847.734375
+[2025.05.03-20.13.55:324][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-20.13.55:324][ 19]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 179848.390625, Update Interval: 333.846252
+[2025.05.03-20.15.45:564][349]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.056 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.03-20.20.25:036][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 180232.375000
+[2025.05.03-20.20.26:036][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-20.20.26:036][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 180233.031250, Update Interval: 325.774719
+[2025.05.03-20.26.41:428][317]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 180602.906250
+[2025.05.03-20.26.42:428][320]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-20.26.42:428][320]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 180603.562500, Update Interval: 305.669128
+[2025.05.03-20.32.40:138][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 180956.578125
+[2025.05.03-20.32.41:138][512]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-20.32.41:138][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 180957.234375, Update Interval: 359.723511
+[2025.05.03-20.39.38:856][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 181369.031250
+[2025.05.03-20.39.39:856][768]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-20.39.39:856][768]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 181369.687500, Update Interval: 340.037231
+[2025.05.03-20.46.13:917][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 181758.031250
+[2025.05.03-20.46.14:917][953]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-20.46.14:917][953]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 181758.687500, Update Interval: 338.394714
+[2025.05.03-20.52.41:307][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 182139.468750
+[2025.05.03-20.52.42:308][115]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-20.52.42:308][115]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 182140.125000, Update Interval: 321.120026
+[2025.05.03-20.58.51:036][221]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 182503.515625
+[2025.05.03-20.58.52:035][224]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-20.58.52:035][224]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 182504.171875, Update Interval: 302.730194
+[2025.05.03-21.04.30:085][238]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 182837.328125
+[2025.05.03-21.04.31:086][241]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-21.04.31:086][241]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 182837.984375, Update Interval: 347.416595
+[2025.05.03-21.11.08:816][434]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 183229.890625
+[2025.05.03-21.11.09:815][437]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-21.11.09:815][437]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 183230.546875, Update Interval: 329.684143
+[2025.05.03-21.15.45:565][264]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.03-21.17.31:876][583]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 183607.140625
+[2025.05.03-21.17.32:876][586]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-21.17.32:876][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 183607.796875, Update Interval: 306.256897
+[2025.05.03-21.23.15:931][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 183945.812500
+[2025.05.03-21.23.16:931][618]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-21.23.16:931][618]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 183946.468750, Update Interval: 317.985168
+[2025.05.03-21.29.29:989][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 184314.031250
+[2025.05.03-21.29.30:990][740]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-21.29.30:990][740]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 184314.687500, Update Interval: 300.653717
+[2025.05.03-21.35.08:715][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 184647.500000
+[2025.05.03-21.35.09:715][756]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-21.35.09:715][756]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 184648.156250, Update Interval: 304.641876
+[2025.05.03-21.41.04:096][819]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 184997.421875
+[2025.05.03-21.41.05:098][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-21.41.05:098][822]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 184998.093750, Update Interval: 332.813507
+[2025.05.03-21.47.18:825][943]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 185366.406250
+[2025.05.03-21.47.19:824][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-21.47.19:824][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 185367.062500, Update Interval: 331.562866
+[2025.05.03-21.51.24:193][679]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.03-21.51.24:194][679]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.9 RefreshExpires: 1.554e+07
+[2025.05.03-21.51.25:194][682]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.03-23.51.22 Remaining: 7200.78] Refresh[Expires: 2025-10-30T19:53:01.580Z Remaining: 15544899.58] State: Valid
+[2025.05.03-21.53.40:880][ 89]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 185742.578125
+[2025.05.03-21.53.41:879][ 92]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-21.53.41:879][ 92]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 185743.234375, Update Interval: 318.690155
+[2025.05.03-21.59.35:938][154]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 186092.156250
+[2025.05.03-21.59.36:939][157]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-21.59.36:939][157]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 186092.812500, Update Interval: 351.659302
+[2025.05.03-22.06.07:024][327]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 186477.156250
+[2025.05.03-22.06.08:023][330]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-22.06.08:023][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 186477.812500, Update Interval: 338.001038
+[2025.05.03-22.12.33:750][487]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 186858.031250
+[2025.05.03-22.12.34:749][490]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-22.12.34:749][490]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 186858.687500, Update Interval: 333.827942
+[2025.05.03-22.15.44:579][ 59]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.071 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.03-22.18.45:477][602]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 187224.015625
+[2025.05.03-22.18.46:478][605]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-22.18.46:478][605]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 187224.671875, Update Interval: 334.016541
+[2025.05.03-22.24.53:529][706]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 187586.375000
+[2025.05.03-22.24.54:530][709]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-22.24.54:530][709]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 187587.031250, Update Interval: 336.177246
+[2025.05.03-22.31.28:716][897]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 187977.359375
+[2025.05.03-22.31.29:716][900]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-22.31.29:716][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 187978.015625, Update Interval: 307.551514
+[2025.05.03-22.37.32:777][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 188335.843750
+[2025.05.03-22.37.33:776][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-22.37.33:776][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 188336.500000, Update Interval: 346.854462
+[2025.05.03-22.44.15:838][198]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 188732.734375
+[2025.05.03-22.44.16:837][201]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-22.44.16:837][201]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 188733.390625, Update Interval: 339.493408
+[2025.05.03-22.50.30:891][323]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 189102.031250
+[2025.05.03-22.50.31:891][326]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-22.50.31:891][326]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 189102.687500, Update Interval: 321.876282
+[2025.05.03-22.56.32:605][408]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 189458.156250
+[2025.05.03-22.56.33:606][411]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-22.56.33:606][411]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 189458.812500, Update Interval: 346.272156
+[2025.05.03-23.02.56:999][561]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 189836.578125
+[2025.05.03-23.02.57:999][564]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-23.02.57:999][564]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 189837.234375, Update Interval: 339.337738
+[2025.05.03-23.09.36:390][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 190229.968750
+[2025.05.03-23.09.37:390][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-23.09.37:390][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 190230.625000, Update Interval: 342.630096
+[2025.05.03-23.15.45:569][866]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.061 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.03-23.15.56:783][900]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 190604.703125
+[2025.05.03-23.15.57:784][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-23.15.57:784][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 190605.359375, Update Interval: 339.334076
+[2025.05.03-23.22.09:841][ 19]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 190972.031250
+[2025.05.03-23.22.10:841][ 22]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-23.22.10:841][ 22]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 190972.687500, Update Interval: 336.078369
+[2025.05.03-23.28.36:904][180]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 191353.187500
+[2025.05.03-23.28.37:904][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-23.28.37:904][183]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 191353.843750, Update Interval: 329.030426
+[2025.05.03-23.34.47:626][292]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 191718.125000
+[2025.05.03-23.34.48:627][295]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-23.34.48:627][295]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 191718.781250, Update Interval: 327.393402
+[2025.05.03-23.41.14:683][453]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 192099.093750
+[2025.05.03-23.41.15:682][456]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-23.41.15:682][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 192099.750000, Update Interval: 342.201599
+[2025.05.03-23.47.45:405][625]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 192483.671875
+[2025.05.03-23.47.46:404][628]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-23.47.46:404][628]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 192484.328125, Update Interval: 321.555847
+[2025.05.03-23.49.44:099][981]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.03-23.49.44:099][981]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.77 RefreshExpires: 1.554e+07
+[2025.05.03-23.49.45:099][984]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.04-01.49.44 Remaining: 7200.33] Refresh[Expires: 2025-10-30T19:53:01.580Z Remaining: 15537797.58] State: Valid
+[2025.05.03-23.54.07:141][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 192859.468750
+[2025.05.03-23.54.08:141][773]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.03-23.54.08:141][773]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 192860.125000, Update Interval: 312.651154
+[2025.05.04-00.00.12:537][866]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 193219.218750
+[2025.05.04-00.00.13:537][869]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-00.00.13:537][869]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 193219.875000, Update Interval: 343.496216
+[2025.05.04-00.06.29:606][997]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 193590.453125
+[2025.05.04-00.06.30:607][  0]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-00.06.30:607][  0]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 193591.109375, Update Interval: 350.873749
+[2025.05.04-00.13.15:000][213]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 193989.609375
+[2025.05.04-00.13.16:000][216]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-00.13.16:000][216]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 193990.265625, Update Interval: 303.001190
+[2025.05.04-00.15.45:562][664]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.054 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.04-00.19.14:389][291]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 194343.343750
+[2025.05.04-00.19.15:388][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-00.19.15:388][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 194344.000000, Update Interval: 323.319183
+[2025.05.04-00.25.12:772][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 194696.171875
+[2025.05.04-00.25.13:772][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-00.25.13:772][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 194696.828125, Update Interval: 303.198944
+[2025.05.04-00.31.08:828][434]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 195046.656250
+[2025.05.04-00.31.09:827][437]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-00.31.09:827][437]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 195047.312500, Update Interval: 303.667725
+[2025.05.04-00.37.05:877][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 195398.203125
+[2025.05.04-00.37.06:877][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-00.37.06:877][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 195398.859375, Update Interval: 336.962799
+[2025.05.04-00.43.18:254][622]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 195764.796875
+[2025.05.04-00.43.19:255][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-00.43.19:255][625]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 195765.453125, Update Interval: 315.463715
+[2025.05.04-00.49.33:970][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 196134.640625
+[2025.05.04-00.49.34:970][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-00.49.34:971][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 196135.296875, Update Interval: 325.608093
+[2025.05.04-00.55.30:691][819]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 196485.734375
+[2025.05.04-00.55.31:691][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-00.55.31:691][822]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 196486.390625, Update Interval: 335.488770
+[2025.05.04-01.01.45:414][943]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 196854.562500
+[2025.05.04-01.01.46:413][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-01.01.46:413][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 196855.218750, Update Interval: 344.298218
+[2025.05.04-01.08.03:144][ 76]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 197226.375000
+[2025.05.04-01.08.04:144][ 79]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-01.08.04:145][ 79]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 197227.031250, Update Interval: 357.256989
+[2025.05.04-01.14.47:214][288]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 197624.140625
+[2025.05.04-01.14.48:214][291]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-01.14.48:214][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 197624.796875, Update Interval: 308.465210
+[2025.05.04-01.15.45:563][463]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.054 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.04-01.20.42:264][353]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 197973.796875
+[2025.05.04-01.20.43:265][356]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-01.20.43:265][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 197974.453125, Update Interval: 343.999756
+[2025.05.04-01.27.08:319][511]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 198353.937500
+[2025.05.04-01.27.09:317][514]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-01.27.09:317][514]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 198354.593750, Update Interval: 345.711853
+[2025.05.04-01.33.49:034][713]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 198748.609375
+[2025.05.04-01.33.50:033][716]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-01.33.50:033][716]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 198749.265625, Update Interval: 350.523987
+[2025.05.04-01.40.17:090][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 199130.718750
+[2025.05.04-01.40.18:091][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-01.40.18:091][880]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 199131.375000, Update Interval: 347.455078
+[2025.05.04-01.46.43:485][ 36]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 199511.218750
+[2025.05.04-01.46.44:486][ 39]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-01.46.44:486][ 39]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 199511.875000, Update Interval: 343.298431
+[2025.05.04-01.48.05:160][281]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.04-01.48.05:160][281]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.553e+07
+[2025.05.04-01.48.06:160][284]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.04-03.48.05 Remaining: 7200.17] Refresh[Expires: 2025-10-30T19:53:01.580Z Remaining: 15530696.58] State: Valid
+[2025.05.04-01.53.06:204][184]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 199888.187500
+[2025.05.04-01.53.07:206][187]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-01.53.07:206][187]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 199888.843750, Update Interval: 344.809113
+[2025.05.04-01.59.44:924][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 200280.890625
+[2025.05.04-01.59.45:924][383]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-01.59.45:924][383]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 200281.546875, Update Interval: 358.178040
+[2025.05.04-02.06.27:651][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 200677.484375
+[2025.05.04-02.06.28:650][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-02.06.28:650][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 200678.140625, Update Interval: 322.985931
+[2025.05.04-02.12.32:044][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 201036.328125
+[2025.05.04-02.12.33:044][684]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-02.12.33:044][684]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 201036.984375, Update Interval: 345.091095
+[2025.05.04-02.15.45:563][261]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.054 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.04-02.18.52:101][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 201410.656250
+[2025.05.04-02.18.53:102][824]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-02.18.53:102][824]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 201411.312500, Update Interval: 338.640106
+[2025.05.04-02.25.22:818][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 201795.281250
+[2025.05.04-02.25.23:819][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-02.25.23:819][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 201795.937500, Update Interval: 339.132660
+[2025.05.04-02.31.35:198][110]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 202161.921875
+[2025.05.04-02.31.36:199][113]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-02.31.36:199][113]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 202162.578125, Update Interval: 334.509094
+[2025.05.04-02.37.46:589][224]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 202527.546875
+[2025.05.04-02.37.47:589][227]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-02.37.47:589][227]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 202528.203125, Update Interval: 307.355560
+[2025.05.04-02.43.30:972][257]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 202866.640625
+[2025.05.04-02.43.31:971][260]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-02.43.31:971][260]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 202867.296875, Update Interval: 335.746948
+[2025.05.04-02.49.42:362][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 203232.296875
+[2025.05.04-02.49.43:362][374]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-02.49.43:362][374]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 203232.953125, Update Interval: 310.726654
+[2025.05.04-02.55.38:747][440]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 203583.187500
+[2025.05.04-02.55.39:747][443]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-02.55.39:748][443]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 203583.843750, Update Interval: 302.296204
+[2025.05.04-03.01.24:455][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 203923.546875
+[2025.05.04-03.01.25:456][480]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-03.01.25:456][480]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 203924.203125, Update Interval: 330.524597
+[2025.05.04-03.07.52:840][642]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 204306.015625
+[2025.05.04-03.07.53:841][645]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-03.07.53:841][645]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 204306.671875, Update Interval: 321.707825
+[2025.05.04-03.14.04:231][756]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 204671.593750
+[2025.05.04-03.14.05:231][759]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-03.14.05:231][759]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 204672.250000, Update Interval: 338.649261
+[2025.05.04-03.15.44:585][ 57]LogDerivedDataCache: C:/Users/mitta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.075 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3401 files in 4631 folders with total size 267 MiB.
+[2025.05.04-03.20.25:272][899]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 205046.750000
+[2025.05.04-03.20.26:272][902]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-03.20.26:273][902]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 205047.406250, Update Interval: 356.746124
+[2025.05.04-03.27.03:323][ 93]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 205438.781250
+[2025.05.04-03.27.04:324][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-03.27.04:324][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 205439.437500, Update Interval: 321.143829
+[2025.05.04-03.33.01:382][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 205791.218750
+[2025.05.04-03.33.02:382][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-03.33.02:383][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 205791.875000, Update Interval: 352.188477
+[2025.05.04-03.39.38:762][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 206182.375000
+[2025.05.04-03.39.39:762][362]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-03.39.39:763][362]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 206183.031250, Update Interval: 354.352844
+[2025.05.04-03.46.05:892][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 206564.500000
+[2025.05.04-03.46.06:892][686]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-03.46.06:892][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 206565.156250, Update Interval: 335.175629
+[2025.05.04-03.46.26:230][744]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bb0...055
+[2025.05.04-03.46.26:230][744]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.83 RefreshExpires: 1.552e+07
+[2025.05.04-03.46.27:230][747]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bb0...055 Access[Expires: 2025.05.04-05.46.26 Remaining: 7200.03] Refresh[Expires: 2025-10-30T19:53:01.580Z Remaining: 15523595.58] State: Valid
+[2025.05.04-03.52.16:278][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 206929.078125
+[2025.05.04-03.52.17:277][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.04-03.52.17:277][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 206929.734375, Update Interval: 323.055511
+[2025.05.04-03.57.43:037][692]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2025.05.04-03.57.43:096][692]LogStall: Shutdown...
+[2025.05.04-03.57.43:103][692]LogStall: Shutdown complete.
+[2025.05.04-03.57.43:295][692]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.43:303][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-03.57.43:335][692]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.43:335][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-03.57.43:391][692]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.43:391][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-03.57.43:398][692]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.43:398][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-03.57.43:434][692]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.43:434][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-03.57.43:439][692]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.43:440][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-03.57.43:597][692]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.43:597][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-03.57.43:718][692]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.43:718][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-03.57.43:724][692]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.43:724][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-03.57.43:825][692]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.04-03.57.43:825][692]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.43:825][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-03.57.43:911][692]LogSlate: Window 'CozyMariner - Unreal Editor' being destroyed
+[2025.05.04-03.57.44:081][693]Cmd: QUIT_EDITOR
+[2025.05.04-03.57.44:082][693]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.04-03.57.44:092][693]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.04-03.57.44:096][693]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.04-03.57.44:097][693]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.04-03.57.44:142][693]LogWorld: UWorld::CleanupWorld for Archipelago_Ashmit, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.44:144][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.04-03.57.44:181][693]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.04-03.57.45:360][693]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.04-03.57.45:360][693]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.04-03.57.45:360][693]LogAudio: Display: Audio Device unregistered from world 'Archipelago_Ashmit'.
+[2025.05.04-03.57.45:362][693]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.05.04-03.57.45:384][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.04-03.57.45:386][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.04-03.57.45:398][693]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.04-03.57.45:400][693]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2025.05.04-03.57.45:408][693]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.04-03.57.45:409][693]LogExit: Preparing to exit.
+[2025.05.04-03.57.45:493][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.04-03.57.45:513][693]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:513][693]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:523][693]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:524][693]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:524][693]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:524][693]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:524][693]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:524][693]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:524][693]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:524][693]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:524][693]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:524][693]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:525][693]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:525][693]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:525][693]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:525][693]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:525][693]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:525][693]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:526][693]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.45:526][693]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.04-03.57.46:245][693]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.46:249][693]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.46:249][693]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.04-03.57.46:435][693]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.04-03.57.46:526][693]LogExit: Editor shut down
+[2025.05.04-03.57.46:533][693]LogExit: Transaction tracking system shut down
+[2025.05.04-03.57.47:171][693]LogExit: Object subsystem successfully closed.
+[2025.05.04-03.57.47:180][693]LogShaderCompilers: Display: ================================================
+[2025.05.04-03.57.47:180][693]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.04-03.57.47:181][693]LogShaderCompilers: Display: Total job queries 150, among them cache hits 29 (19.33%)
+[2025.05.04-03.57.47:181][693]LogShaderCompilers: Display: Tracking 121 distinct input hashes that result in 98 distinct outputs (80.99%)
+[2025.05.04-03.57.47:182][693]LogShaderCompilers: Display: RAM used: 2.76 MiB of 1.60 GiB budget. Usage: 0.17%
+[2025.05.04-03.57.47:182][693]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.04-03.57.47:182][693]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.05.04-03.57.47:182][693]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.05.04-03.57.47:182][693]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.05.04-03.57.47:182][693]LogShaderCompilers: Display: ================================================
+[2025.05.04-03.57.47:212][693]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.04-03.57.47:275][693]LogVirtualization: UE::Virtualization was shutdown
+[2025.05.04-03.57.47:440][693]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1072)
+[2025.05.04-03.57.47:440][693]LogModuleManager: Shutting down and abandoning module Voice (1070)
+[2025.05.04-03.57.47:440][693]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1068)
+[2025.05.04-03.57.47:440][693]LogModuleManager: Shutting down and abandoning module DataTableEditor (1066)
+[2025.05.04-03.57.47:440][693]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1064)
+[2025.05.04-03.57.47:440][693]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1062)
+[2025.05.04-03.57.47:440][693]LogModuleManager: Shutting down and abandoning module AddContentDialog (1060)
+[2025.05.04-03.57.47:447][693]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1059)
+[2025.05.04-03.57.47:447][693]LogModuleManager: Shutting down and abandoning module SceneOutliner (1056)
+[2025.05.04-03.57.47:449][693]LogModuleManager: Shutting down and abandoning module StatusBar (1054)
+[2025.05.04-03.57.47:449][693]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1052)
+[2025.05.04-03.57.47:449][693]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1050)
+[2025.05.04-03.57.47:450][693]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1048)
+[2025.05.04-03.57.47:450][693]LogModuleManager: Shutting down and abandoning module StatsViewer (1046)
+[2025.05.04-03.57.47:450][693]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1044)
+[2025.05.04-03.57.47:450][693]LogModuleManager: Shutting down and abandoning module AutomationWorker (1042)
+[2025.05.04-03.57.47:451][693]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1040)
+[2025.05.04-03.57.47:452][693]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1038)
+[2025.05.04-03.57.47:454][693]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1036)
+[2025.05.04-03.57.47:455][693]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1034)
+[2025.05.04-03.57.47:455][693]LogModuleManager: Shutting down and abandoning module BspMode (1032)
+[2025.05.04-03.57.47:455][693]LogModuleManager: Shutting down and abandoning module GeometryMode (1030)
+[2025.05.04-03.57.47:456][693]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1028)
+[2025.05.04-03.57.47:456][693]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1026)
+[2025.05.04-03.57.47:456][693]LogModuleManager: Shutting down and abandoning module RigVMEditor (1024)
+[2025.05.04-03.57.47:457][693]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1022)
+[2025.05.04-03.57.47:457][693]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1020)
+[2025.05.04-03.57.47:457][693]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1018)
+[2025.05.04-03.57.47:457][693]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1016)
+[2025.05.04-03.57.47:457][693]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1014)
+[2025.05.04-03.57.47:459][693]LogModuleManager: Shutting down and abandoning module IKRigEditor (1012)
+[2025.05.04-03.57.47:461][693]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1010)
+[2025.05.04-03.57.47:462][693]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1008)
+[2025.05.04-03.57.47:463][693]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1007)
+[2025.05.04-03.57.47:464][693]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1004)
+[2025.05.04-03.57.47:464][693]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1002)
+[2025.05.04-03.57.47:464][693]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1000)
+[2025.05.04-03.57.47:464][693]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (998)
+[2025.05.04-03.57.47:464][693]LogModuleManager: Shutting down and abandoning module WebMMedia (996)
+[2025.05.04-03.57.47:464][693]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (994)
+[2025.05.04-03.57.47:464][693]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (992)
+[2025.05.04-03.57.47:464][693]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (990)
+[2025.05.04-03.57.47:464][693]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (988)
+[2025.05.04-03.57.47:465][693]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (986)
+[2025.05.04-03.57.47:465][693]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (984)
+[2025.05.04-03.57.47:465][693]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (982)
+[2025.05.04-03.57.47:465][693]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (980)
+[2025.05.04-03.57.47:465][693]LogModuleManager: Shutting down and abandoning module WaterEditor (978)
+[2025.05.04-03.57.47:465][693]LogModuleManager: Shutting down and abandoning module PlanarCut (976)
+[2025.05.04-03.57.47:465][693]LogModuleManager: Shutting down and abandoning module FractureEngine (974)
+[2025.05.04-03.57.47:466][693]LogModuleManager: Shutting down and abandoning module CharacterAI (972)
+[2025.05.04-03.57.47:466][693]LogModuleManager: Shutting down and abandoning module SmartSnapping (970)
+[2025.05.04-03.57.47:466][693]LogModuleManager: Shutting down and abandoning module SessionServices (968)
+[2025.05.04-03.57.47:466][693]LogModuleManager: Shutting down and abandoning module MeshPaint (966)
+[2025.05.04-03.57.47:467][693]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (964)
+[2025.05.04-03.57.47:467][693]LogModuleManager: Shutting down and abandoning module PlacementMode (963)
+[2025.05.04-03.57.47:467][693]LogModuleManager: Shutting down and abandoning module FoliageEdit (960)
+[2025.05.04-03.57.47:469][693]LogModuleManager: Shutting down and abandoning module LandscapeEditor (958)
+[2025.05.04-03.57.47:471][693]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (956)
+[2025.05.04-03.57.47:471][693]LogModuleManager: Shutting down and abandoning module ActorPickerMode (954)
+[2025.05.04-03.57.47:471][693]LogModuleManager: Shutting down and abandoning module ViewportSnapping (952)
+[2025.05.04-03.57.47:471][693]LogModuleManager: Shutting down and abandoning module EditorWidgets (950)
+[2025.05.04-03.57.47:472][693]LogModuleManager: Shutting down and abandoning module ViewportInteraction (948)
+[2025.05.04-03.57.47:472][693]LogModuleManager: Shutting down and abandoning module ClothPainter (946)
+[2025.05.04-03.57.47:474][693]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (945)
+[2025.05.04-03.57.47:474][693]LogModuleManager: Shutting down and abandoning module WidgetRegistration (942)
+[2025.05.04-03.57.47:474][693]LogModuleManager: Shutting down and abandoning module LogVisualizer (940)
+[2025.05.04-03.57.47:475][693]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (938)
+[2025.05.04-03.57.47:476][693]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (936)
+[2025.05.04-03.57.47:476][693]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (935)
+[2025.05.04-03.57.47:476][693]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (933)
+[2025.05.04-03.57.48:018][693]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (930)
+[2025.05.04-03.57.48:018][693]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (928)
+[2025.05.04-03.57.48:018][693]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (926)
+[2025.05.04-03.57.48:018][693]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (924)
+[2025.05.04-03.57.48:018][693]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (922)
+[2025.05.04-03.57.48:019][693]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (920)
+[2025.05.04-03.57.48:019][693]LogModuleManager: Shutting down and abandoning module AnimationSettings (918)
+[2025.05.04-03.57.48:019][693]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (916)
+[2025.05.04-03.57.48:019][693]LogModuleManager: Shutting down and abandoning module CSVtoSVG (914)
+[2025.05.04-03.57.48:019][693]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (912)
+[2025.05.04-03.57.48:019][693]LogModuleManager: Shutting down and abandoning module EditorConfig (910)
+[2025.05.04-03.57.48:019][693]LogModuleManager: Shutting down and abandoning module EditorFramework (908)
+[2025.05.04-03.57.48:019][693]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (906)
+[2025.05.04-03.57.48:020][693]LogModuleManager: Shutting down and abandoning module TraceInsights (904)
+[2025.05.04-03.57.48:023][693]MemoryProfiler: Shutdown
+[2025.05.04-03.57.48:024][693]NetworkingProfiler: Shutdown
+[2025.05.04-03.57.48:024][693]LoadingProfiler: Shutdown
+[2025.05.04-03.57.48:025][693]TimingProfiler: Shutdown
+[2025.05.04-03.57.48:027][693]LogModuleManager: Shutting down and abandoning module TraceServices (903)
+[2025.05.04-03.57.48:029][693]LogModuleManager: Shutting down and abandoning module TraceAnalysis (902)
+[2025.05.04-03.57.48:029][693]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (898)
+[2025.05.04-03.57.48:029][693]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (897)
+[2025.05.04-03.57.48:029][693]LogModuleManager: Shutting down and abandoning module InputBindingEditor (894)
+[2025.05.04-03.57.48:029][693]LogModuleManager: Shutting down and abandoning module MergeActors (892)
+[2025.05.04-03.57.48:030][693]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (890)
+[2025.05.04-03.57.48:030][693]LogModuleManager: Shutting down and abandoning module LocalizationService (889)
+[2025.05.04-03.57.48:030][693]LogModuleManager: Shutting down and abandoning module HardwareTargeting (886)
+[2025.05.04-03.57.48:030][693]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (884)
+[2025.05.04-03.57.48:031][693]LogModuleManager: Shutting down and abandoning module UndoHistory (882)
+[2025.05.04-03.57.48:031][693]LogModuleManager: Shutting down and abandoning module XmlParser (880)
+[2025.05.04-03.57.48:031][693]LogModuleManager: Shutting down and abandoning module Blutility (878)
+[2025.05.04-03.57.48:031][693]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (876)
+[2025.05.04-03.57.48:031][693]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (875)
+[2025.05.04-03.57.48:032][693]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (872)
+[2025.05.04-03.57.48:032][693]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (871)
+[2025.05.04-03.57.48:032][693]LogModuleManager: Shutting down and abandoning module SettingsEditor (868)
+[2025.05.04-03.57.48:032][693]LogModuleManager: Shutting down and abandoning module ProjectLauncher (866)
+[2025.05.04-03.57.48:033][693]LogModuleManager: Shutting down and abandoning module SessionFrontend (864)
+[2025.05.04-03.57.48:033][693]LogModuleManager: Shutting down and abandoning module ProfilerClient (862)
+[2025.05.04-03.57.48:033][693]LogModuleManager: Shutting down and abandoning module DeviceManager (860)
+[2025.05.04-03.57.48:034][693]LogModuleManager: Shutting down and abandoning module AutomationController (858)
+[2025.05.04-03.57.48:034][693]LogModuleManager: Shutting down and abandoning module AutomationWindow (856)
+[2025.05.04-03.57.48:036][693]LogModuleManager: Shutting down and abandoning module Layers (854)
+[2025.05.04-03.57.48:037][693]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (852)
+[2025.05.04-03.57.48:037][693]LogModuleManager: Shutting down and abandoning module DetailCustomizations (850)
+[2025.05.04-03.57.48:039][693]LogModuleManager: Shutting down and abandoning module PackagesDialog (848)
+[2025.05.04-03.57.48:041][693]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (846)
+[2025.05.04-03.57.48:042][693]LogModuleManager: Shutting down and abandoning module Persona (844)
+[2025.05.04-03.57.48:043][693]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (843)
+[2025.05.04-03.57.48:043][693]LogModuleManager: Shutting down and abandoning module Kismet (840)
+[2025.05.04-03.57.48:050][693]LogModuleManager: Shutting down and abandoning module KismetWidgets (839)
+[2025.05.04-03.57.48:050][693]LogModuleManager: Shutting down and abandoning module GraphEditor (836)
+[2025.05.04-03.57.48:051][693]LogModuleManager: Shutting down and abandoning module StructViewer (834)
+[2025.05.04-03.57.48:051][693]LogModuleManager: Shutting down and abandoning module ClassViewer (832)
+[2025.05.04-03.57.48:051][693]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (830)
+[2025.05.04-03.57.48:052][693]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (828)
+[2025.05.04-03.57.48:052][693]LogModuleManager: Shutting down and abandoning module SourceControlWindows (826)
+[2025.05.04-03.57.48:052][693]LogModuleManager: Shutting down and abandoning module OutputLog (824)
+[2025.05.04-03.57.48:053][693]LogModuleManager: Shutting down and abandoning module Documentation (822)
+[2025.05.04-03.57.48:053][693]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (820)
+[2025.05.04-03.57.48:053][693]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (818)
+[2025.05.04-03.57.48:053][693]LogModuleManager: Shutting down and abandoning module MovieScene (816)
+[2025.05.04-03.57.48:053][693]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (814)
+[2025.05.04-03.57.48:053][693]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (812)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (810)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module AudioMixer (809)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module AudioMixerCore (808)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module LauncherPlatform (804)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module AnalyticsET (802)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module PortalServices (800)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module PortalRpc (798)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module MessagingRpc (796)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module AIModule (794)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module GameplayDebugger (793)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module AITestSuite (791)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module NavigationSystem (789)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (786)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (784)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module TypedElementFramework (782)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (780)
+[2025.05.04-03.57.48:054][693]LogModuleManager: Shutting down and abandoning module ProfilerService (778)
+[2025.05.04-03.57.48:066][693]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (776)
+[2025.05.04-03.57.48:067][693]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (774)
+[2025.05.04-03.57.48:067][693]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (772)
+[2025.05.04-03.57.48:067][693]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (770)
+[2025.05.04-03.57.48:070][693]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (768)
+[2025.05.04-03.57.48:070][693]LogModuleManager: Shutting down and abandoning module TakesCore (766)
+[2025.05.04-03.57.48:070][693]LogModuleManager: Shutting down and abandoning module Fab (764)
+[2025.05.04-03.57.48:071][693]LogModuleManager: Shutting down and abandoning module MegascansPlugin (762)
+[2025.05.04-03.57.48:071][693]LogModuleManager: Shutting down and abandoning module Bridge (760)
+[2025.05.04-03.57.48:072][693]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (758)
+[2025.05.04-03.57.48:072][693]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (756)
+[2025.05.04-03.57.48:072][693]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (754)
+[2025.05.04-03.57.48:072][693]LogModuleManager: Shutting down and abandoning module CollectionManager (753)
+[2025.05.04-03.57.48:072][693]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (750)
+[2025.05.04-03.57.48:073][693]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (748)
+[2025.05.04-03.57.48:074][693]LogModuleManager: Shutting down and abandoning module LightMixer (746)
+[2025.05.04-03.57.48:074][693]LogModuleManager: Shutting down and abandoning module AlembicImporter (744)
+[2025.05.04-03.57.48:074][693]LogModuleManager: Shutting down and abandoning module AlembicLibrary (743)
+[2025.05.04-03.57.48:074][693]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (740)
+[2025.05.04-03.57.48:074][693]LogModuleManager: Shutting down and abandoning module InterchangeTests (738)
+[2025.05.04-03.57.48:074][693]LogModuleManager: Shutting down and abandoning module TemplateSequence (736)
+[2025.05.04-03.57.48:074][693]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (734)
+[2025.05.04-03.57.48:074][693]LogModuleManager: Shutting down and abandoning module SequencerScripting (732)
+[2025.05.04-03.57.48:074][693]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (730)
+[2025.05.04-03.57.48:075][693]LogModuleManager: Shutting down and abandoning module VariantManager (728)
+[2025.05.04-03.57.48:079][693]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (727)
+[2025.05.04-03.57.48:079][693]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (724)
+[2025.05.04-03.57.48:079][693]LogModuleManager: Shutting down and abandoning module UVEditorTools (722)
+[2025.05.04-03.57.48:080][693]LogModuleManager: Shutting down and abandoning module UVEditor (720)
+[2025.05.04-03.57.48:080][693]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (718)
+[2025.05.04-03.57.48:080][693]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (716)
+[2025.05.04-03.57.48:080][693]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (714)
+[2025.05.04-03.57.48:080][693]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (712)
+[2025.05.04-03.57.48:084][693]LogModuleManager: Shutting down and abandoning module PluginBrowser (710)
+[2025.05.04-03.57.48:085][693]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (708)
+[2025.05.04-03.57.48:086][693]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (706)
+[2025.05.04-03.57.48:086][693]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (704)
+[2025.05.04-03.57.48:087][693]LogModuleManager: Shutting down and abandoning module EditorDebugTools (702)
+[2025.05.04-03.57.48:087][693]LogModuleManager: Shutting down and abandoning module ChangelistReview (700)
+[2025.05.04-03.57.48:087][693]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (698)
+[2025.05.04-03.57.48:087][693]LogModuleManager: Shutting down and abandoning module CryptoKeys (696)
+[2025.05.04-03.57.48:087][693]LogModuleManager: Shutting down and abandoning module CurveEditorTools (694)
+[2025.05.04-03.57.48:089][693]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (692)
+[2025.05.04-03.57.48:089][693]LogModuleManager: Shutting down and abandoning module SynthesisEditor (690)
+[2025.05.04-03.57.48:089][693]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (688)
+[2025.05.04-03.57.48:089][693]LogModuleManager: Shutting down and abandoning module ResonanceAudio (686)
+[2025.05.04-03.57.48:090][693]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (684)
+[2025.05.04-03.57.48:090][693]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (682)
+[2025.05.04-03.57.48:090][693]LogModuleManager: Shutting down and abandoning module ModelingOperators (680)
+[2025.05.04-03.57.48:090][693]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (678)
+[2025.05.04-03.57.48:090][693]LogModuleManager: Shutting down and abandoning module ModelingComponents (676)
+[2025.05.04-03.57.48:091][693]LogModuleManager: Shutting down and abandoning module GeometryFramework (675)
+[2025.05.04-03.57.48:091][693]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (672)
+[2025.05.04-03.57.48:091][693]LogModuleManager: Shutting down and abandoning module MeshModelingTools (670)
+[2025.05.04-03.57.48:091][693]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (668)
+[2025.05.04-03.57.48:091][693]LogModuleManager: Shutting down and abandoning module InputDebugging (666)
+[2025.05.04-03.57.48:091][693]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (664)
+[2025.05.04-03.57.48:091][693]LogModuleManager: Shutting down and abandoning module GeometryCache (662)
+[2025.05.04-03.57.48:091][693]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (660)
+[2025.05.04-03.57.48:092][693]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (658)
+[2025.05.04-03.57.48:092][693]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (656)
+[2025.05.04-03.57.48:092][693]LogModuleManager: Shutting down and abandoning module GooglePAD (654)
+[2025.05.04-03.57.48:092][693]LogModuleManager: Shutting down and abandoning module DynamicMesh (652)
+[2025.05.04-03.57.48:092][693]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (650)
+[2025.05.04-03.57.48:093][693]LogModuleManager: Shutting down and abandoning module AndroidPermission (648)
+[2025.05.04-03.57.48:093][693]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (646)
+[2025.05.04-03.57.48:093][693]LogModuleManager: Shutting down and abandoning module AppleImageUtils (644)
+[2025.05.04-03.57.48:093][693]LogModuleManager: Shutting down and abandoning module AudioCapture (642)
+[2025.05.04-03.57.48:093][693]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (641)
+[2025.05.04-03.57.48:093][693]LogModuleManager: Shutting down and abandoning module AssetTags (638)
+[2025.05.04-03.57.48:093][693]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (636)
+[2025.05.04-03.57.48:093][693]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (634)
+[2025.05.04-03.57.48:096][693]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (632)
+[2025.05.04-03.57.48:097][693]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (630)
+[2025.05.04-03.57.48:097][693]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (628)
+[2025.05.04-03.57.48:097][693]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (626)
+[2025.05.04-03.57.48:097][693]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (624)
+[2025.05.04-03.57.48:097][693]LogModuleManager: Shutting down and abandoning module UObjectPlugin (622)
+[2025.05.04-03.57.48:097][693]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (620)
+[2025.05.04-03.57.48:097][693]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (618)
+[2025.05.04-03.57.48:099][693]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (616)
+[2025.05.04-03.57.48:099][693]LogModuleManager: Shutting down and abandoning module PluginUtils (614)
+[2025.05.04-03.57.48:099][693]LogModuleManager: Shutting down and abandoning module GitSourceControl (612)
+[2025.05.04-03.57.48:100][693]LogModuleManager: Shutting down and abandoning module DumpGPUServices (610)
+[2025.05.04-03.57.48:100][693]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (608)
+[2025.05.04-03.57.48:100][693]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (606)
+[2025.05.04-03.57.48:100][693]LogModuleManager: Shutting down and abandoning module TakeSequencer (602)
+[2025.05.04-03.57.48:100][693]LogModuleManager: Shutting down and abandoning module TakeMovieScene (600)
+[2025.05.04-03.57.48:100][693]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (598)
+[2025.05.04-03.57.48:100][693]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (596)
+[2025.05.04-03.57.48:100][693]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (594)
+[2025.05.04-03.57.48:101][693]LogModuleManager: Shutting down and abandoning module InterchangeExport (592)
+[2025.05.04-03.57.48:101][693]LogModuleManager: Shutting down and abandoning module InterchangeMessages (590)
+[2025.05.04-03.57.48:101][693]LogModuleManager: Shutting down and abandoning module GLTFCore (588)
+[2025.05.04-03.57.48:101][693]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (586)
+[2025.05.04-03.57.48:101][693]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (584)
+[2025.05.04-03.57.48:101][693]LogModuleManager: Shutting down and abandoning module InterchangeEditor (582)
+[2025.05.04-03.57.48:101][693]LogModuleManager: Shutting down and abandoning module ControlRigSpline (580)
+[2025.05.04-03.57.48:101][693]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (578)
+[2025.05.04-03.57.48:101][693]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (576)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module MediaCompositing (574)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (572)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (570)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module MediaPlate (568)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module ImgMedia (566)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (564)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (562)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (560)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (558)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (556)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (554)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (552)
+[2025.05.04-03.57.48:102][693]LogOpenImageDenoise: OIDN shutting down
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module MeshLODToolset (550)
+[2025.05.04-03.57.48:102][693]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (548)
+[2025.05.04-03.57.48:103][693]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (546)
+[2025.05.04-03.57.48:103][693]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (544)
+[2025.05.04-03.57.48:104][693]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (542)
+[2025.05.04-03.57.48:105][693]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (540)
+[2025.05.04-03.57.48:105][693]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (538)
+[2025.05.04-03.57.48:105][693]LogModuleManager: Shutting down and abandoning module LocalizableMessage (536)
+[2025.05.04-03.57.48:105][693]LogModuleManager: Shutting down and abandoning module LandmassEditor (534)
+[2025.05.04-03.57.48:105][693]LogModuleManager: Shutting down and abandoning module Landmass (532)
+[2025.05.04-03.57.48:105][693]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (530)
+[2025.05.04-03.57.48:105][693]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (528)
+[2025.05.04-03.57.48:105][693]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (526)
+[2025.05.04-03.57.48:105][693]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (524)
+[2025.05.04-03.57.48:106][693]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (522)
+[2025.05.04-03.57.48:106][693]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (521)
+[2025.05.04-03.57.48:106][693]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (519)
+[2025.05.04-03.57.48:106][693]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (516)
+[2025.05.04-03.57.48:106][693]LogModuleManager: Shutting down and abandoning module DataflowNodes (514)
+[2025.05.04-03.57.48:106][693]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (512)
+[2025.05.04-03.57.48:106][693]LogModuleManager: Shutting down and abandoning module DataflowEditor (510)
+[2025.05.04-03.57.48:106][693]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (508)
+[2025.05.04-03.57.48:106][693]LogModuleManager: Shutting down and abandoning module ChaosNiagara (506)
+[2025.05.04-03.57.48:107][693]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (504)
+[2025.05.04-03.57.48:107][693]LogModuleManager: Shutting down and abandoning module FractureEditor (502)
+[2025.05.04-03.57.48:108][693]LogModuleManager: Shutting down and abandoning module BackChannel (500)
+[2025.05.04-03.57.48:109][693]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (498)
+[2025.05.04-03.57.48:110][693]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (496)
+[2025.05.04-03.57.48:110][693]LogModuleManager: Shutting down and abandoning module AutomationUtils (494)
+[2025.05.04-03.57.48:110][693]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (492)
+[2025.05.04-03.57.48:110][693]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (490)
+[2025.05.04-03.57.48:110][693]LogModuleManager: Shutting down and abandoning module Paper2DEditor (488)
+[2025.05.04-03.57.48:111][693]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (486)
+[2025.05.04-03.57.48:111][693]LogModuleManager: Shutting down and abandoning module TraceUtilities (484)
+[2025.05.04-03.57.48:111][693]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2025.05.04-03.57.48:111][693]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2025.05.04-03.57.48:111][693]LogModuleManager: Shutting down and abandoning module InputEditor (478)
+[2025.05.04-03.57.48:112][693]LogModuleManager: Shutting down and abandoning module ActorSequence (476)
+[2025.05.04-03.57.48:112][693]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (474)
+[2025.05.04-03.57.48:113][693]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (472)
+[2025.05.04-03.57.48:113][693]LogModuleManager: Shutting down and abandoning module FacialAnimation (470)
+[2025.05.04-03.57.48:113][693]LogModuleManager: Shutting down and abandoning module DataValidation (468)
+[2025.05.04-03.57.48:113][693]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (466)
+[2025.05.04-03.57.48:114][693]LogModuleManager: Shutting down and abandoning module TreeMap (465)
+[2025.05.04-03.57.48:114][693]LogModuleManager: Shutting down and abandoning module Synthesis (462)
+[2025.05.04-03.57.48:115][693]LogModuleManager: Shutting down and abandoning module SoundFields (460)
+[2025.05.04-03.57.48:115][693]LogModuleManager: Shutting down and abandoning module SignificanceManager (458)
+[2025.05.04-03.57.48:115][693]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (456)
+[2025.05.04-03.57.48:116][693]LogModuleManager: Shutting down and abandoning module RigVM (454)
+[2025.05.04-03.57.48:116][693]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (452)
+[2025.05.04-03.57.48:116][693]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (450)
+[2025.05.04-03.57.48:116][693]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (448)
+[2025.05.04-03.57.48:116][693]LogModuleManager: Shutting down and abandoning module MetasoundEditor (446)
+[2025.05.04-03.57.48:117][693]LogModuleManager: Shutting down and abandoning module AudioWidgets (445)
+[2025.05.04-03.57.48:117][693]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (444)
+[2025.05.04-03.57.48:119][693]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (440)
+[2025.05.04-03.57.48:119][693]LogModuleManager: Shutting down and abandoning module MetasoundEngine (438)
+[2025.05.04-03.57.48:119][693]LogModuleManager: Shutting down and abandoning module WaveTable (437)
+[2025.05.04-03.57.48:119][693]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (435)
+[2025.05.04-03.57.48:120][693]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (432)
+[2025.05.04-03.57.48:120][693]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (430)
+[2025.05.04-03.57.48:125][693]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (428)
+[2025.05.04-03.57.48:125][693]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (426)
+[2025.05.04-03.57.48:125][693]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (424)
+[2025.05.04-03.57.48:125][693]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (422)
+[2025.05.04-03.57.48:125][693]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (420)
+[2025.05.04-03.57.48:126][693]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (419)
+[2025.05.04-03.57.48:126][693]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (416)
+[2025.05.04-03.57.48:126][693]LogModuleManager: Shutting down and abandoning module CableComponent (414)
+[2025.05.04-03.57.48:126][693]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (412)
+[2025.05.04-03.57.48:126][693]LogModuleManager: Shutting down and abandoning module Niagara (410)
+[2025.05.04-03.57.48:126][693]LogModuleManager: Shutting down and abandoning module SignalProcessing (409)
+[2025.05.04-03.57.48:127][693]LogModuleManager: Shutting down and abandoning module NiagaraEditor (407)
+[2025.05.04-03.57.48:127][693]LogModuleManager: Shutting down and abandoning module ContentBrowser (406)
+[2025.05.04-03.57.48:127][693]LogModuleManager: Shutting down and abandoning module ToolMenus (405)
+[2025.05.04-03.57.48:127][693]LogModuleManager: Shutting down and abandoning module ContentBrowserData (403)
+[2025.05.04-03.57.48:127][693]LogModuleManager: Shutting down and abandoning module NiagaraCore (398)
+[2025.05.04-03.57.48:127][693]LogModuleManager: Shutting down and abandoning module GameplayCameras (396)
+[2025.05.04-03.57.48:127][693]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (394)
+[2025.05.04-03.57.48:128][693]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (392)
+[2025.05.04-03.57.48:128][693]LogModuleManager: Shutting down and abandoning module AnimationSharing (390)
+[2025.05.04-03.57.48:128][693]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2025.05.04-03.57.48:230][693]LogModuleManager: Shutting down and abandoning module UdpMessaging (386)
+[2025.05.04-03.57.48:330][693]LogModuleManager: Shutting down and abandoning module InterchangePipelines (384)
+[2025.05.04-03.57.48:330][693]LogModuleManager: Shutting down and abandoning module InterchangeImport (382)
+[2025.05.04-03.57.48:330][693]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (380)
+[2025.05.04-03.57.48:330][693]LogModuleManager: Shutting down and abandoning module InterchangeNodes (378)
+[2025.05.04-03.57.48:330][693]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (376)
+[2025.05.04-03.57.48:330][693]LogModuleManager: Shutting down and abandoning module IKRig (374)
+[2025.05.04-03.57.48:330][693]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (372)
+[2025.05.04-03.57.48:330][693]LogModuleManager: Shutting down and abandoning module ControlRig (370)
+[2025.05.04-03.57.48:330][693]LogModuleManager: Shutting down and abandoning module Constraints (369)
+[2025.05.04-03.57.48:330][693]LogModuleManager: Shutting down and abandoning module AnimationData (366)
+[2025.05.04-03.57.48:330][693]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (364)
+[2025.05.04-03.57.48:330][693]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (362)
+[2025.05.04-03.57.48:331][693]LogModuleManager: Shutting down and abandoning module StructUtils (360)
+[2025.05.04-03.57.48:331][693]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (358)
+[2025.05.04-03.57.48:331][693]LogModuleManager: Shutting down and abandoning module PBIK (356)
+[2025.05.04-03.57.48:331][693]LogModuleManager: Shutting down and abandoning module FullBodyIK (354)
+[2025.05.04-03.57.48:331][693]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (352)
+[2025.05.04-03.57.48:331][693]LogModuleManager: Shutting down and abandoning module TakeRecorder (351)
+[2025.05.04-03.57.48:332][693]LogModuleManager: Shutting down and abandoning module LevelEditor (349)
+[2025.05.04-03.57.48:337][693]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (348)
+[2025.05.04-03.57.48:338][693]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (346)
+[2025.05.04-03.57.48:338][693]LogModuleManager: Shutting down and abandoning module MainFrame (344)
+[2025.05.04-03.57.48:338][693]LogModuleManager: Shutting down and abandoning module HotReload (343)
+[2025.05.04-03.57.48:339][693]LogModuleManager: Shutting down and abandoning module ChaosCaching (338)
+[2025.05.04-03.57.48:339][693]LogModuleManager: Shutting down and abandoning module LevelSequence (337)
+[2025.05.04-03.57.48:339][693]LogModuleManager: Shutting down and abandoning module Paper2D (334)
+[2025.05.04-03.57.48:339][693]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (332)
+[2025.05.04-03.57.48:339][693]LogModuleManager: Shutting down and abandoning module BlueprintGraph (331)
+[2025.05.04-03.57.48:339][693]LogModuleManager: Shutting down and abandoning module EnhancedInput (328)
+[2025.05.04-03.57.48:339][693]LogModuleManager: Shutting down and abandoning module BlueprintMaterialTextureNodes (326)
+[2025.05.04-03.57.48:339][693]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (324)
+[2025.05.04-03.57.48:568][693]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (322)
+[2025.05.04-03.57.48:568][693]LogModuleManager: Shutting down and abandoning module AndroidFileServer (320)
+[2025.05.04-03.57.48:568][693]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (318)
+[2025.05.04-03.57.48:568][693]LogModuleManager: Shutting down and abandoning module PacketHandler (316)
+[2025.05.04-03.57.48:568][693]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (314)
+[2025.05.04-03.57.48:570][693]LogModuleManager: Shutting down and abandoning module AnimGraph (312)
+[2025.05.04-03.57.48:570][693]LogModuleManager: Shutting down and abandoning module TimeManagement (310)
+[2025.05.04-03.57.48:570][693]LogModuleManager: Shutting down and abandoning module AnimationDataController (308)
+[2025.05.04-03.57.48:570][693]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (306)
+[2025.05.04-03.57.48:570][693]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (304)
+[2025.05.04-03.57.48:570][693]LogModuleManager: Shutting down and abandoning module MediaAssets (302)
+[2025.05.04-03.57.48:570][693]LogModuleManager: Shutting down and abandoning module Overlay (300)
+[2025.05.04-03.57.48:570][693]LogModuleManager: Shutting down and abandoning module OverlayEditor (299)
+[2025.05.04-03.57.48:570][693]LogModuleManager: Shutting down and abandoning module VREditor (296)
+[2025.05.04-03.57.48:571][693]LogModuleManager: Shutting down and abandoning module StringTableEditor (294)
+[2025.05.04-03.57.48:571][693]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (292)
+[2025.05.04-03.57.48:571][693]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (290)
+[2025.05.04-03.57.48:573][693]LogModuleManager: Shutting down and abandoning module FunctionalTesting (288)
+[2025.05.04-03.57.48:573][693]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (286)
+[2025.05.04-03.57.48:574][693]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (285)
+[2025.05.04-03.57.48:575][693]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (282)
+[2025.05.04-03.57.48:575][693]LogModuleManager: Shutting down and abandoning module UMG (280)
+[2025.05.04-03.57.48:575][693]LogModuleManager: Shutting down and abandoning module UMGEditor (279)
+[2025.05.04-03.57.48:575][693]LogModuleManager: Shutting down and abandoning module EditorStyle (274)
+[2025.05.04-03.57.48:576][693]LogModuleManager: Shutting down and abandoning module SlateReflector (272)
+[2025.05.04-03.57.48:579][693]LogModuleManager: Shutting down and abandoning module Slate (270)
+[2025.05.04-03.57.48:579][693]LogModuleManager: Shutting down and abandoning module SlateCore (268)
+[2025.05.04-03.57.48:580][693]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (266)
+[2025.05.04-03.57.48:580][693]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (264)
+[2025.05.04-03.57.48:580][693]LogModuleManager: Shutting down and abandoning module UnrealEd (262)
+[2025.05.04-03.57.48:580][693]LogModuleManager: Shutting down and abandoning module MRMesh (260)
+[2025.05.04-03.57.48:580][693]LogModuleManager: Shutting down and abandoning module Messaging (258)
+[2025.05.04-03.57.48:580][693]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2025.05.04-03.57.48:580][693]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2025.05.04-03.57.48:580][693]LogModuleManager: Shutting down and abandoning module LiveCoding (252)
+[2025.05.04-03.57.48:596][693]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2025.05.04-03.57.48:596][693]LogModuleManager: Shutting down and abandoning module Core (248)
+[2025.05.04-03.57.48:596][693]LogModuleManager: Shutting down and abandoning module AssetDefinition (246)
+[2025.05.04-03.57.48:596][693]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2025.05.04-03.57.48:597][693]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2025.05.04-03.57.48:597][693]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2025.05.04-03.57.48:597][693]LogModuleManager: Shutting down and abandoning module KismetCompiler (238)
+[2025.05.04-03.57.48:599][693]LogModuleManager: Shutting down and abandoning module MeshBuilder (236)
+[2025.05.04-03.57.48:599][693]LogModuleManager: Shutting down and abandoning module NaniteBuilder (234)
+[2025.05.04-03.57.48:599][693]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2025.05.04-03.57.48:600][693]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2025.05.04-03.57.48:600][693]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (230)
+[2025.05.04-03.57.48:601][693]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (229)
+[2025.05.04-03.57.48:601][693]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (226)
+[2025.05.04-03.57.48:601][693]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (225)
+[2025.05.04-03.57.48:601][693]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (223)
+[2025.05.04-03.57.48:601][693]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (221)
+[2025.05.04-03.57.48:604][693]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (219)
+[2025.05.04-03.57.48:604][693]LogModuleManager: Shutting down and abandoning module MaterialBaking (215)
+[2025.05.04-03.57.48:605][693]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (212)
+[2025.05.04-03.57.48:616][693]LogModuleManager: Shutting down and abandoning module TelemetryUtils (209)
+[2025.05.04-03.57.48:616][693]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (206)
+[2025.05.04-03.57.48:616][693]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (204)
+[2025.05.04-03.57.48:616][693]LogModuleManager: Shutting down and abandoning module DerivedDataCache (202)
+[2025.05.04-03.57.48:643][693]LogModuleManager: Shutting down and abandoning module TargetPlatform (200)
+[2025.05.04-03.57.48:643][693]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (199)
+[2025.05.04-03.57.48:645][693]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (197)
+[2025.05.04-03.57.48:647][693]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (195)
+[2025.05.04-03.57.48:647][693]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (193)
+[2025.05.04-03.57.48:647][693]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2025.05.04-03.57.48:647][693]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (189)
+[2025.05.04-03.57.48:647][693]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (187)
+[2025.05.04-03.57.48:647][693]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (185)
+[2025.05.04-03.57.48:647][693]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (183)
+[2025.05.04-03.57.48:647][693]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (181)
+[2025.05.04-03.57.48:648][693]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (179)
+[2025.05.04-03.57.48:648][693]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (177)
+[2025.05.04-03.57.48:649][693]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (175)
+[2025.05.04-03.57.48:649][693]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (173)
+[2025.05.04-03.57.48:649][693]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (171)
+[2025.05.04-03.57.48:649][693]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (169)
+[2025.05.04-03.57.48:649][693]LogModuleManager: Shutting down and abandoning module TextureFormat (167)
+[2025.05.04-03.57.48:649][693]LogModuleManager: Shutting down and abandoning module ImageWrapper (166)
+[2025.05.04-03.57.48:649][693]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (164)
+[2025.05.04-03.57.48:653][693]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (162)
+[2025.05.04-03.57.48:653][693]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (160)
+[2025.05.04-03.57.48:653][693]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (158)
+[2025.05.04-03.57.48:653][693]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (156)
+[2025.05.04-03.57.48:653][693]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (154)
+[2025.05.04-03.57.48:653][693]LogModuleManager: Shutting down and abandoning module TurnkeySupport (151)
+[2025.05.04-03.57.48:654][693]LogModuleManager: Shutting down and abandoning module InputCore (148)
+[2025.05.04-03.57.48:654][693]LogModuleManager: Shutting down and abandoning module Settings (146)
+[2025.05.04-03.57.48:654][693]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (144)
+[2025.05.04-03.57.48:666][693]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (142)
+[2025.05.04-03.57.48:666][693]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (141)
+[2025.05.04-03.57.48:666][693]LogModuleManager: Shutting down and abandoning module Chaos (138)
+[2025.05.04-03.57.48:666][693]LogModuleManager: Shutting down and abandoning module GeometryCore (137)
+[2025.05.04-03.57.48:666][693]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (134)
+[2025.05.04-03.57.48:666][693]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (133)
+[2025.05.04-03.57.48:666][693]LogModuleManager: Shutting down and abandoning module AVEncoder (132)
+[2025.05.04-03.57.48:667][693]LogModuleManager: Shutting down and abandoning module D3D12RHI (128)
+[2025.05.04-03.57.48:667][693]LogModuleManager: Shutting down and abandoning module GLTFExporter (126)
+[2025.05.04-03.57.48:667][693]LogModuleManager: Shutting down and abandoning module DatasmithContent (124)
+[2025.05.04-03.57.48:667][693]LogModuleManager: Shutting down and abandoning module VariantManagerContent (122)
+[2025.05.04-03.57.48:667][693]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (120)
+[2025.05.04-03.57.48:667][693]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (118)
+[2025.05.04-03.57.48:667][693]LogModuleManager: Shutting down and abandoning module ChunkDownloader (116)
+[2025.05.04-03.57.48:668][693]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (114)
+[2025.05.04-03.57.48:668][693]LogModuleManager: Shutting down and abandoning module NiagaraShader (112)
+[2025.05.04-03.57.48:668][693]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (110)
+[2025.05.04-03.57.48:668][693]RenderDocPlugin: plugin has been unloaded.
+[2025.05.04-03.57.48:668][693]LogModuleManager: Shutting down and abandoning module PixWinPlugin (108)
+[2025.05.04-03.57.48:668][693]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (106)
+[2025.05.04-03.57.48:668][693]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (104)
+[2025.05.04-03.57.48:669][693]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (102)
+[2025.05.04-03.57.48:674][693]LogModuleManager: Shutting down and abandoning module XMPP (97)
+[2025.05.04-03.57.48:675][693]LogModuleManager: Shutting down and abandoning module WebSockets (96)
+[2025.05.04-03.57.48:688][693]LogModuleManager: Shutting down and abandoning module HTTP (93)
+[2025.05.04-03.57.48:688][693]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.04-03.57.48:688][693]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7E129AF6-4286-D423-ADAF-C9A6B01A8952%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=708be6a64147d3f6f113b0a7cb95fd64%7Cbb0cae002e0548758a884871138bd055%7Cda8b30ac-43c8-4120-bbff-225b388d334c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2025.05.04-03.57.48:705][693]LogModuleManager: Shutting down and abandoning module SSL (92)
+[2025.05.04-03.57.48:711][693]LogModuleManager: Shutting down and abandoning module EOSShared (88)
+[2025.05.04-03.57.49:275][693]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.04-03.57.49:275][693]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (86)
+[2025.05.04-03.57.49:275][693]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (84)
+[2025.05.04-03.57.49:275][693]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (82)
+[2025.05.04-03.57.49:275][693]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (80)
+[2025.05.04-03.57.49:275][693]LogModuleManager: Shutting down and abandoning module ACLPlugin (78)
+[2025.05.04-03.57.49:276][693]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2025.05.04-03.57.49:279][693]LogModuleManager: Shutting down and abandoning module Media (75)
+[2025.05.04-03.57.49:281][693]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2025.05.04-03.57.49:281][693]LogModuleManager: Shutting down and abandoning module Water (70)
+[2025.05.04-03.57.49:281][693]LogModuleManager: Shutting down and abandoning module AISupportModule (68)
+[2025.05.04-03.57.49:281][693]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2025.05.04-03.57.49:281][693]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2025.05.04-03.57.49:282][693]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2025.05.04-03.57.49:283][693]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2025.05.04-03.57.49:284][693]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2025.05.04-03.57.49:284][693]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2025.05.04-03.57.49:285][693]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2025.05.04-03.57.49:285][693]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2025.05.04-03.57.49:285][693]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2025.05.04-03.57.49:285][693]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2025.05.04-03.57.49:285][693]LogXGEController: Cleaning working directory: C:/Users/mitta/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.05.04-03.57.49:285][693]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2025.05.04-03.57.49:286][693]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2025.05.04-03.57.49:286][693]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2025.05.04-03.57.49:287][693]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2025.05.04-03.57.49:291][693]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2025.05.04-03.57.49:292][693]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2025.05.04-03.57.49:292][693]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2025.05.04-03.57.49:292][693]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2025.05.04-03.57.49:292][693]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2025.05.04-03.57.49:292][693]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.05.04-03.57.49:292][693]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.05.04-03.57.49:292][693]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.05.04-03.57.49:296][693]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.05.04-03.57.49:296][693]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.05.04-03.57.49:297][693]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.05.04-03.57.49:298][693]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.05.04-03.57.49:298][693]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.05.04-03.57.49:298][693]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.05.04-03.57.49:299][693]LogPakFile: Destroying PakPlatformFile
+[2025.05.04-03.57.49:299][693]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.05.04-03.57.49:299][693]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.05.04-03.57.49:299][693]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.05.04-03.57.49:299][693]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.05.04-03.57.49:299][693]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.05.04-03.57.49:729][693]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.04-03.57.49:766][693]LogExit: Exiting.
+[2025.05.04-03.57.49:801][693]Log file closed, 05/03/25 23:57:49
