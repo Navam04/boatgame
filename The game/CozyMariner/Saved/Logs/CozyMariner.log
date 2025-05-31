@@ -7624,3 +7624,62 @@ Make sure 'WB_ITEMSLOT_C' has been compiled for  Get Border
 [2025.05.24-18.25.08:407][747]LogBlueprintUserMessages: [BP_Inventory]  with the location code of 0
 
 [2025.05.24-18.25.08:409][747]LogBlueprintUserMessages: [WB_Inventory_C_0] Inventory Rebuilt!
+[2025.05.24-18.31.15:094][800]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=1 - VG278 (AMD High Definition Audio Device), InstanceID=1
+[2025.05.24-18.31.15:095][800]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=1 - VG278 (AMD High Definition Audio Device), InstanceID=71
+[2025.05.24-18.31.15:474][800]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22060
+[2025.05.24-18.31.15:475][800]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24460
+[2025.05.24-18.31.15:563][801]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{391dcce3-b1db-4cb3-b010-f78b53b7cb52}, Name=1 - VG278 (AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=9.87
+[2025.05.24-18.31.15:563][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.24-18.31.15:564][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.24-18.31.15:565][801]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{391dcce3-b1db-4cb3-b010-f78b53b7cb52}, Name=1 - VG278 (AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=71, DurationMS=8.39
+[2025.05.24-18.31.15:565][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2025.05.24-18.31.15:567][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2025.05.24-18.47.45:968][773]LogDerivedDataCache: C:/Users/navam_909oqfp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.069 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4094 files in 5332 folders with total size 191 MiB.
+[2025.05.24-19.47.45:962][572]LogDerivedDataCache: C:/Users/navam_909oqfp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4094 files in 5332 folders with total size 191 MiB.
+[2025.05.24-20.47.45:962][371]LogDerivedDataCache: C:/Users/navam_909oqfp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4094 files in 5332 folders with total size 191 MiB.
+[2025.05.24-20.51.45:706][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.24-20.51.45:706][ 90]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_BoatTest1withFish
+[2025.05.24-20.51.45:707][ 90]LogSlate: Window 'CozyMariner Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.24-20.51.45:709][ 90]LogWorld: UWorld::CleanupWorld for BoatTest1withFish, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-20.51.45:713][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-20.51.45:715][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.24-20.51.45:719][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-20.51.45:736][ 90]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.24-20.51.45:736][ 90]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2025.05.24-20.51.45:736][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.05.24-20.51.45:739][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.05.24-20.51.45:751][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2025.05.24-20.51.46:011][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2025.05.24-20.51.55:732][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.24-20.51.55:735][120]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/BoatTest1withFish' took 0.016
+[2025.05.24-20.51.55:735][120]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Inventory/WB_Inventory] ([2] browsable assets)...
+[2025.05.24-20.51.55:738][120]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_Inventory/WB_Inventory.WB_Inventory]
+[2025.05.24-20.51.55:738][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Inventory/WB_Inventory]
+[2025.05.24-20.51.55:755][120]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Inventory/WB_Inventory_Auto5
+[2025.05.24-20.51.55:756][120]LogSavePackage: Moving 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Saved/WB_Inventory_Auto572DAE3744970719CAEC83C86FE2C49BA.tmp' to 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Inventory/WB_Inventory_Auto5.uasset'
+[2025.05.24-20.51.55:758][120]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Inventory/WB_ITEMSLOT] ([2] browsable assets)...
+[2025.05.24-20.51.55:762][120]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_Inventory/WB_ITEMSLOT.WB_ITEMSLOT]
+[2025.05.24-20.51.55:762][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Inventory/WB_ITEMSLOT]
+[2025.05.24-20.51.55:779][120]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Inventory/WB_ITEMSLOT_Auto5
+[2025.05.24-20.51.55:779][120]LogSavePackage: Moving 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Saved/WB_ITEMSLOT_Auto5A8D88C01481D044109AC44B12DB0AC88.tmp' to 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Inventory/WB_ITEMSLOT_Auto5.uasset'
+[2025.05.24-20.51.55:781][120]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Inventory/07Arcfish] ([1] browsable assets)...
+[2025.05.24-20.51.55:781][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Inventory/07Arcfish]
+[2025.05.24-20.51.55:783][120]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Inventory/07Arcfish_Auto5
+[2025.05.24-20.51.55:783][120]LogSavePackage: Moving 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Saved/07Arcfish_Auto51565A1DA47B856E83A37228DBD1B1077.tmp' to 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Inventory/07Arcfish_Auto5.uasset'
+[2025.05.24-20.51.55:786][120]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Inventory/01Minnow] ([1] browsable assets)...
+[2025.05.24-20.51.55:786][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Inventory/01Minnow]
+[2025.05.24-20.51.55:789][120]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Inventory/01Minnow_Auto5
+[2025.05.24-20.51.55:789][120]LogSavePackage: Moving 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Saved/01Minnow_Auto58A8C319A4541BF8128B04C9BB1D31049.tmp' to 'C:/Users/navam_909oqfp/Desktop/Work and Related/boatgame/The game/CozyMariner/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Inventory/01Minnow_Auto5.uasset'
+[2025.05.24-20.51.55:790][120]LogFileHelpers: Auto-saving content packages took 0.055
+[2025.05.24-21.47.45:962][171]LogDerivedDataCache: C:/Users/navam_909oqfp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4094 files in 5332 folders with total size 191 MiB.
+[2025.05.24-22.47.45:965][971]LogDerivedDataCache: C:/Users/navam_909oqfp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.065 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4094 files in 5332 folders with total size 191 MiB.
+[2025.05.24-23.47.46:935][773]LogDerivedDataCache: C:/Users/navam_909oqfp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.035 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4094 files in 5332 folders with total size 191 MiB.
+[2025.05.25-00.47.45:965][570]LogDerivedDataCache: C:/Users/navam_909oqfp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.064 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4094 files in 5332 folders with total size 191 MiB.
+[2025.05.25-01.47.45:962][369]LogDerivedDataCache: C:/Users/navam_909oqfp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.060 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4094 files in 5332 folders with total size 191 MiB.
+[2025.05.25-02.29.27:920][875]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (ATH-ANC700BT), InstanceID=1
+[2025.05.25-02.29.28:102][875]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24460
+[2025.05.25-02.29.28:437][876]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ea942d0a-60f5-4fd9-a517-4ab8e007de28}, Name=Headphones (ATH-ANC700BT)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.04
+[2025.05.25-02.29.28:437][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.25-02.29.28:439][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.25-02.47.45:984][169]LogDerivedDataCache: C:/Users/navam_909oqfp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.081 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4094 files in 5332 folders with total size 191 MiB.
+[2025.05.25-03.47.46:153][969]LogDerivedDataCache: C:/Users/navam_909oqfp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.250 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4094 files in 5332 folders with total size 191 MiB.
